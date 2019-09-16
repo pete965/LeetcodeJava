@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66e93141-f8e2-472c-a56f-08f3cd22a603" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Longest_Substring_Without_Repeating_Characters/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Longest_Substring_Without_Repeating_Characters/testRegex.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Longest_Substring_Without_Repeating_Characters/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Longest_Substring_Without_Repeating_Characters/Solution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +34,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last.edited.regexp" value="aasdfsaaasff" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Studying/Semester 1/DS/Tutorials/RMIDemo" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -49,13 +48,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.testRegex">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="LeetcodeJava" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Longest_Substring_Without_Repeating_Characters.Solution" />
+      <module name="LeetcodeJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Longest_Substring_Without_Repeating_Characters.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -75,6 +87,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.testRegex" />
       </list>
     </recent_temporary>
@@ -93,7 +106,7 @@
       <workItem from="1568196451290" duration="175000" />
       <workItem from="1568196658633" duration="109000" />
       <workItem from="1568622856784" duration="3295000" />
-      <workItem from="1568628406498" duration="1332000" />
+      <workItem from="1568628406498" duration="5534000" />
     </task>
     <task id="LOCAL-00001" summary="ADD_TWO_NUMBERS COMPLETED">
       <created>1568625904817</created>
@@ -102,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568625904817</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="P3 DOING">
+      <created>1568629761548</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568629761548</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +157,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ADD_TWO_NUMBERS COMPLETED" />
-    <option name="LAST_COMMIT_MESSAGE" value="ADD_TWO_NUMBERS COMPLETED" />
+    <MESSAGE value="P3 DOING" />
+    <option name="LAST_COMMIT_MESSAGE" value="P3 DOING" />
   </component>
 </project>
