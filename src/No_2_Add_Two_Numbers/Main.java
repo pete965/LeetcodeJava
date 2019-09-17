@@ -1,7 +1,4 @@
-package Add_Two_Numbers;
-
-import java.util.LinkedList;
-import java.util.List;
+package No_2_Add_Two_Numbers;
 
 /**
  * Definition for singly-linked list.

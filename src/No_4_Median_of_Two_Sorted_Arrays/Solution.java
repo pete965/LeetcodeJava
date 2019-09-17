@@ -1,4 +1,4 @@
-package Median_of_Two_Sorted_Arrays;
+package No_4_Median_of_Two_Sorted_Arrays;
 
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {

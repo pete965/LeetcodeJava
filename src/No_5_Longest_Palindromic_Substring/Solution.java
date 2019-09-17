@@ -1,4 +1,4 @@
-package Longest_Palindromic_Substring;
+package No_5_Longest_Palindromic_Substring;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -18,10 +18,12 @@ public class Solution {
             }
         }
         HashMap<Integer,ArrayList<Integer>> lengthMap = new HashMap<Integer,ArrayList<Integer>>();
-        for (int i =)
+        for (int i = 1;i<=s.length();i++){
+            lengthMap.put(i,new ArrayList<Integer>());
+        }
         for(Character character:hashMap.keySet()){
             if (hashMap.get(character).size()>1){
-
+                lengthMap.get(hashMap.get(character).size())
             }
         }
         return output;
