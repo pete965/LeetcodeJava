@@ -5,34 +5,33 @@ import java.util.HashMap;
 
 public class Solution {
     public String longestPalindrome(String s) {
-        String output = "";
-        HashMap<Character, ArrayList<Integer>> hashMap = new HashMap<Character, ArrayList<Integer>>();
-        for (int i=0;i<s.length();i++){
-            Character ch = s.charAt(i);
-            if (!hashMap.containsKey(ch)){
-                ArrayList<Integer> arrayList = new ArrayList<Integer>();
-                arrayList.add(i);
-                hashMap.put(ch,arrayList);
-            }else{
-                hashMap.get(ch).add(i);
+        int length = s.length();
+        int[][] pOrNot = new int[length][length];
+        fullFill(pOrNot);
+    }
+
+    private void fullFill(int[][] pOrNot) {
+        for(int i = 1;i<pOrNot.length)
+        // TODO: 2019/9/18 查下二维数组怎么获取两个维度的大小
+    }
+
+    public int[][] calsss(){
+        for (int i=0;i<length;i++){
+            for(int j=i;j<length;j++){
+                if(i=j)
             }
         }
-        HashMap<Integer,ArrayList<Integer>> lengthMap = new HashMap<Integer,ArrayList<Integer>>();
-        for (int i = 1;i<=s.length();i++){
-            lengthMap.put(i,new ArrayList<Integer>());
-        }
-        for(Character character:hashMap.keySet()){
-            if (hashMap.get(character).size()>1){
-                lengthMap.get(hashMap.get(character).size())
-            }
-        }
-        return output;
-    }
-    public boolean isPali(String s){
-        boolean output = true;
-        return output;
-    }
-    public void addAllCombinations(ArrayList<Integer> arrayList,){
 
     }
+    public int cal(int i,int j,String s,int[][] pOrNot){
+        int length = s.length();
+        if(i==j){
+            pOrNot[i][j] = true;
+        }else if(i+1==j){
+            pOrNot[i][j] = (s.charAt(i)==s.charAt(j));
+        }else{
+            pOrNot[i][j] = cal(i+1,j-1,s);
+        }
+    }
+
 }
