@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="66e93141-f8e2-472c-a56f-08f3cd22a603" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Add_Two_Numbers/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Add_Two_Numbers/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Longest_Substring_Without_Repeating_Characters/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Longest_Substring_Without_Repeating_Characters/testRegex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Two_Sum/Main.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/No_5_Longest_Palindromic_Substring/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/No_5_Longest_Palindromic_Substring/Solution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,13 +52,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="LeetcodeJava" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="No_5_Longest_Palindromic_Substring.Solution" />
+      <module name="LeetcodeJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="No_5_Longest_Palindromic_Substring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -86,6 +104,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.testRegex" />
       </list>
@@ -108,7 +127,7 @@
       <workItem from="1568628406498" duration="5702000" />
       <workItem from="1568706240765" duration="4772000" />
       <workItem from="1568730562165" duration="1677000" />
-      <workItem from="1568766857721" duration="4109000" />
+      <workItem from="1568766857721" duration="7826000" />
     </task>
     <task id="LOCAL-00001" summary="ADD_TWO_NUMBERS COMPLETED">
       <created>1568625904817</created>
@@ -159,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568732739605</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="P5 in progress">
+      <created>1568782980976</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1568782980976</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
