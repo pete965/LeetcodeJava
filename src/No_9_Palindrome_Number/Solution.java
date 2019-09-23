@@ -22,3 +22,5 @@ class Solution {
         return output;
     }
 }
+
+//Improvement: Reverse the first half is enough
