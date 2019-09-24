@@ -8,32 +8,6 @@ public class Solution {
         int[] array=new int[]{1,1,1,1,1,1,1};
         System.out.println(Util.listToString(solution.deleteDuplication(Util.arrayToNode(array))));
     }
-
-//    private String tostring(ListNode deleteDuplication) {
-//        ListNode current=deleteDuplication;
-//        String output="{";
-//        while (current!=null){
-//            output+=current.val;
-//        }
-//        output+="}";
-//        return output;
-//    }
-//
-//    private  ListNode toNode(int[] array) {
-//        if (array.length==0){
-//            return null;
-//        }
-//        ListNode head=new ListNode(array[0]);
-//        ListNode current=head;
-//        for (int i=1;i<array.length;i++){
-//            ListNode node=new ListNode(array[i]);
-//            current.next=node;
-//            current=current.next;
-//        }
-//        current.next=null;
-//        return head;
-//    }
-
     public ListNode deleteDuplication(ListNode pHead)
     {
         ListNode head=new ListNode(1);
