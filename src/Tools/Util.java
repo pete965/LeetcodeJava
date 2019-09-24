@@ -1,5 +1,8 @@
 package Tools;
 
+import java.util.LinkedList;
+import java.util.Queue;
+
 public class Util {
     public static String listToString(ListNode deleteDuplication) {
         ListNode current=deleteDuplication;
@@ -25,4 +28,17 @@ public class Util {
         current.next=null;
         return head;
     }
+    public static String treeToPreString(TreeNode root){
+        return null;
+    }
+    public static String treeToInString(TreeNode root){
+        return null;
+    }
+    public static String treeToPostString(TreeNode root){
+        return null;
+    }
+    public static String treeToBreString(TreeNode root){
+        Queue<TreeNode> queue=new LinkedList<>();
+    }
+
 }
