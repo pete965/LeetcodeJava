@@ -1,30 +1,61 @@
 package Sword_Offer_056;
 
+
 public class Solution {
+    public static void main(String[] args){
+        Solution solution=new Solution();
+        int[] array=new int[]{1,1,1,1,1,1,1};
+        System.out.println(solution.tostring(solution.deleteDuplication(solution.toNode(array))));
+    }
+
+    private String tostring(ListNode deleteDuplication) {
+        ListNode current=deleteDuplication;
+        String output="{";
+        while (current!=null){
+            output+=current.val;
+        }
+        output+="}";
+        return output;
+    }
+
+    private  ListNode toNode(int[] array) {
+        if (array.length==0){
+            return null;
+        }
+        ListNode head=new ListNode(array[0]);
+        ListNode current=head;
+        for (int i=1;i<array.length;i++){
+            ListNode node=new ListNode(array[i]);
+            current.next=node;
+            current=current.next;
+        }
+        current.next=null;
+        return head;
+    }
+
     public ListNode deleteDuplication(ListNode pHead)
     {
-        ListNode output=pHead;
-        if (pHead==null){
-            return null;
-        }else if (pHead.next==null){
+        ListNode head=new ListNode(1);
+        head.next=pHead;
+        if (pHead==null||pHead.next==null){
             return pHead;
-        }else if (pHead.val==pHead.next.val&&pHead.next.next==null){
-            return null;
-        }else if (pHead.next.next.next==null&&pHead.val==pHead.next.val){
-            return pHead.next.next;
         }
-        ListNode current1=pHead;
-        ListNode current2=pHead.next;
-        ListNode current3=pHead.next.next;
-        while (current3.next!=null){
-            if (current2.val==current3.val){
-                current1.next=current3.next;
-                current2=current1.next;
-            }else {
-                current1=current1.next;
+        ListNode current1=pHead.next;
+        ListNode current2=head;
+        while (current1!=null){
+            if (current2.next.val!=current1.val){
                 current2=current2.next;
+                current1=current1.next;
+            }else {
+                while (current1!=null&&current2.next.val==current1.val){
+                    current1=current1.next;
+                }
+                current2.next=current1;
+                if (current1!=null){
+                    current1=current1.next;
+                }
             }
         }
-        return output;
+        return head.next;
     }
 }
