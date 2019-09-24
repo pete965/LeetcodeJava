@@ -1,10 +1,11 @@
-package Sowrd_Offer_004;
+package Sword_Offer_004;
 import Tools.TreeNode;
 import Tools.Util;
 
 public class Solution {
     public static void main(String[] args){
         Solution solution=new Solution();
+        System.out.println(Util.treeToBreString(solution.reConstructBinaryTree(new int[]{1,2,3,4},new int[]{1,2,3,4})));
         System.out.println(Util.treeToBreString(solution.reConstructBinaryTree(new int[]{1,2,4,3,5,6},new int[]{4,2,1,5,3,6})));
         System.out.println(Util.treeToBreString(solution.reConstructBinaryTree(new int[]{1,2,3,4,5,6,7},new int[]{3,2,4,1,6,5,7})));
     }
@@ -21,7 +22,7 @@ public class Solution {
             root.right=null;
             return root;
         }
-        for (int i=1;i<pre.length;i++){
+        for (int i=0;i<pre.length;i++){
             if (in[i]==split){
                 leftLength=i;
                 rightLength=pre.length-1-leftLength;
