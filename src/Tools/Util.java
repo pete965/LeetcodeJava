@@ -39,6 +39,18 @@ public class Util {
     }
     public static String treeToBreString(TreeNode root){
         Queue<TreeNode> queue=new LinkedList<>();
+        String output="";
+        queue.add(root);
+        while (!queue.isEmpty()){
+            TreeNode pop=queue.remove();
+            output+=pop.val;
+            if (pop.left!=null){
+                queue.add(pop.left);
+            }
+            if (pop.right!=null){
+                queue.add(pop.right);
+            }
+        }
+        return output;
     }
-
 }

@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66e93141-f8e2-472c-a56f-08f3cd22a603" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Sowrd_Offer_004/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Sword_Offer_056/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Sword_Offer_056/Solution.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Tools/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Tools/Util.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sowrd_Offer_004/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sowrd_Offer_004/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Tools/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tools/Util.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,11 +32,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tools/Util.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="473">
-              <caret line="40" column="49" selection-start-line="40" selection-start-column="49" selection-end-line="40" selection-end-column="49" />
+            <state relative-caret-position="568">
+              <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#773#774#0" expanded="true" />
@@ -46,18 +45,19 @@
                 <element signature="e#882#883#0" expanded="true" />
                 <element signature="e#909#910#0" expanded="true" />
                 <element signature="e#930#931#0" expanded="true" />
-                <element signature="e#1050#1051#0" expanded="true" />
-                <element signature="e#1092#1093#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Sowrd_Offer_004/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="549">
-              <caret line="43" column="1" lean-forward="true" selection-start-line="2" selection-end-line="43" selection-end-column="1" />
+            <state relative-caret-position="141">
+              <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="13" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -109,8 +109,8 @@
         <option value="$PROJECT_DIR$/src/Tools/ListNode.java" />
         <option value="$PROJECT_DIR$/src/Sword_Offer_055/Solution.java" />
         <option value="$PROJECT_DIR$/src/Sword_Offer_056/Solution.java" />
-        <option value="$PROJECT_DIR$/src/Sowrd_Offer_004/Solution.java" />
         <option value="$PROJECT_DIR$/src/Tools/Util.java" />
+        <option value="$PROJECT_DIR$/src/Sowrd_Offer_004/Solution.java" />
       </list>
     </option>
   </component>
@@ -152,12 +152,6 @@
               <item name="LeetcodeJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetcodeJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Sowrd_Offer_004" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetcodeJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetcodeJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Tools" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -194,20 +188,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (5)">
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="No_5_Longest_Palindromic_Substring.Solution" />
-      <module name="LeetcodeJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="No_5_Longest_Palindromic_Substring.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="No_6_ZigZag_Conversion.Solution" />
       <module name="LeetcodeJava" />
@@ -260,13 +241,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sowrd_Offer_004.Solution" />
+      <module name="LeetcodeJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sowrd_Offer_004.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -298,7 +292,7 @@
       <workItem from="1569202379060" duration="13450000" />
       <workItem from="1569255012188" duration="783000" />
       <workItem from="1569288558191" duration="5464000" />
-      <workItem from="1569305491925" duration="2179000" />
+      <workItem from="1569305491925" duration="5147000" />
     </task>
     <task id="LOCAL-00001" summary="ADD_TWO_NUMBERS COMPLETED">
       <created>1568625904817</created>
@@ -447,15 +441,21 @@
       <option name="project" value="LOCAL" />
       <updated>1569305175872</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Sword BreOrder Traverse Tree Tools In Progress">
+      <created>1569315276495</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1569315276495</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38658000" />
+    <option name="totallyTimeSpent" value="41626000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29088473" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -466,7 +466,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33240223" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33240223" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39944133" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -542,7 +542,8 @@
     <MESSAGE value="Sword P55 56  In progress" />
     <MESSAGE value="Sword P56 Completed" />
     <MESSAGE value="Sword P55 Completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sword P55 Completed" />
+    <MESSAGE value="Sword BreOrder Traverse Tree Tools In Progress" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sword BreOrder Traverse Tree Tools In Progress" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -790,17 +791,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sowrd_Offer_004/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="43" column="1" lean-forward="true" selection-start-line="2" selection-end-line="43" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Tools/Util.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="40" column="49" selection-start-line="40" selection-start-column="49" selection-end-line="40" selection-end-column="49" />
+        <state relative-caret-position="568">
+          <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#773#774#0" expanded="true" />
@@ -809,8 +803,16 @@
             <element signature="e#882#883#0" expanded="true" />
             <element signature="e#909#910#0" expanded="true" />
             <element signature="e#930#931#0" expanded="true" />
-            <element signature="e#1050#1051#0" expanded="true" />
-            <element signature="e#1092#1093#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sowrd_Offer_004/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

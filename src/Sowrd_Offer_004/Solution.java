@@ -1,7 +1,17 @@
 package Sowrd_Offer_004;
 import Tools.TreeNode;
+import Tools.Util;
+
 public class Solution {
+    public static void main(String[] args){
+        Solution solution=new Solution();
+        System.out.println(Util.treeToBreString(solution.reConstructBinaryTree(new int[]{1,2,4,3,5,6},new int[]{4,2,1,5,3,6})));
+        System.out.println(Util.treeToBreString(solution.reConstructBinaryTree(new int[]{1,2,3,4,5,6,7},new int[]{3,2,4,1,6,5,7})));
+    }
     public TreeNode reConstructBinaryTree(int [] pre,int [] in) {
+        if (pre.length==0){
+            return null;
+        }
         int split=pre[0];
         int leftLength = 0;
         int rightLength = 0;
@@ -25,16 +35,16 @@ public class Solution {
 
         for (int i=1;i<pre.length;i++){
             if (i<=leftLength){
-                leftPre[i]=pre[i];
+                leftPre[i-1]=pre[i];
             }else{
-                rightPre[i]=pre[i];
+                rightPre[i-leftLength-1]=pre[i];
             }
         }
         for (int i=0;i<in.length;i++){
             if (i<leftLength){
                 leftIn[i]=in[i];
             }else if (i>leftLength){
-                rightIn[i]=in[i];
+                rightIn[i-leftLength-1]=in[i];
             }
         }
         root.left=reConstructBinaryTree(leftPre,leftIn);
