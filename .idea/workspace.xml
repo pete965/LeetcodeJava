@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66e93141-f8e2-472c-a56f-08f3cd22a603" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Sword_Offer_058/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sword_Offer_060/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,10 +31,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Sword_Offer_023/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/Tools/Util.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            <state relative-caret-position="245">
+              <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="53" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -44,28 +47,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
               <caret line="18" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Sword_Offer_024/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" selection-start-line="5" selection-end-line="19" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#285#305#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Sword_Offer_026/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="530">
-              <caret line="42" column="1" lean-forward="true" selection-start-line="2" selection-end-line="42" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -106,11 +87,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Sword_Offer_058/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="361">
               <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Sword_Offer_059/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="397">
+              <caret line="43" column="13" lean-forward="true" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Sword_Offer_060/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="530">
+              <caret line="51" column="1" lean-forward="true" selection-start-line="4" selection-end-line="51" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -188,6 +193,8 @@
         <option value="$PROJECT_DIR$/src/Tools/TreeLinkNode.java" />
         <option value="$PROJECT_DIR$/src/Sword_Offer_057/Solution.java" />
         <option value="$PROJECT_DIR$/src/Sword_Offer_058/Solution.java" />
+        <option value="$PROJECT_DIR$/src/Sword_Offer_059/Solution.java" />
+        <option value="$PROJECT_DIR$/src/Sword_Offer_060/Solution.java" />
       </list>
     </option>
   </component>
@@ -235,7 +242,13 @@
               <item name="LeetcodeJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetcodeJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Sword_Offer_058" type="462c0819:PsiDirectoryNode" />
+              <item name="Sword_Offer_059" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetcodeJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetcodeJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Sword_Offer_060" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetcodeJava" type="b2602c69:ProjectViewProjectNode" />
@@ -391,7 +404,7 @@
       <workItem from="1569255012188" duration="783000" />
       <workItem from="1569288558191" duration="5464000" />
       <workItem from="1569305491925" duration="8982000" />
-      <workItem from="1569377746807" duration="9342000" />
+      <workItem from="1569377746807" duration="12784000" />
     </task>
     <task id="LOCAL-00001" summary="ADD_TWO_NUMBERS COMPLETED">
       <created>1568625904817</created>
@@ -589,11 +602,25 @@
       <option name="project" value="LOCAL" />
       <updated>1569392751795</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Sword 058 Completed">
+      <created>1569394302277</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1569394302277</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Sword 059 Completed">
+      <created>1569401092054</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1569401092054</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54803000" />
+    <option name="totallyTimeSpent" value="58245000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
@@ -667,7 +694,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ADD_TWO_NUMBERS COMPLETED" />
     <MESSAGE value="P3 DOING" />
     <MESSAGE value="p3 NEARLY" />
     <MESSAGE value="P4 COMPLETED" />
@@ -691,7 +717,9 @@
     <MESSAGE value="Sword 026 Completed" />
     <MESSAGE value="Sword 039 Completed" />
     <MESSAGE value="Sword 057 Completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sword 057 Completed" />
+    <MESSAGE value="Sword 058 Completed" />
+    <MESSAGE value="Sword 059 Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sword 059 Completed" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -935,16 +963,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tools/Util.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="46" column="17" selection-start-line="40" selection-start-column="8" selection-end-line="53" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Sword_Offer_017/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -1040,6 +1058,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tools/Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="53" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sword_Offer_059/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="43" column="13" lean-forward="true" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sword_Offer_060/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="51" column="1" lean-forward="true" selection-start-line="4" selection-end-line="51" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
