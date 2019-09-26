@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66e93141-f8e2-472c-a56f-08f3cd22a603" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_005/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_020/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_061/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_061/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/META-INF/LeetcodeJava.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/META-INF/LeetcodeJava.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/No_1_Two_Sum/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/No_2_Add_Two_Numbers/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/No_2_Add_Two_Numbers/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/No_3_Longest_Substring_Without_Repeating_Characters/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/No_3_Longest_Substring_Without_Repeating_Characters/testRegex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/No_4_Median_of_Two_Sorted_Arrays/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/No_5_Longest_Palindromic_Substring/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Tools/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Tools/Util.class" afterDir="false" />
     </list>
     <list id="a7928831-6ef8-4884-9e5a-9f387cff135e" name="Revert &quot;Sword 060 Completed&quot;" comment="Revert &quot;Sword 060 Completed&quot;&#10;&#10;This reverts commit 417b2ab8" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,11 +54,6 @@
       </map>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="775" />
-    <option name="width" value="980" />
-    <option name="height" value="1050" />
-  </component>
   <component name="ProjectId" id="1Qge0KQiZGARLcKtThIY6Km79Ca" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -58,7 +63,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last.edited.regexp" value="aasdfsaaasff" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Coding_Interview" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -69,6 +74,7 @@
       <recent name="Sword_Offer_015" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\孙博洋\Github\Unimelb\LeetcodeJava\src\Coding_Interview" />
       <recent name="C:\孙博洋\Github\Unimelb\LeetcodeJava\src" />
     </key>
   </component>
@@ -190,7 +196,7 @@
       <workItem from="1569288558191" duration="5464000" />
       <workItem from="1569305491925" duration="8982000" />
       <workItem from="1569377746807" duration="12784000" />
-      <workItem from="1569478904732" duration="2266000" />
+      <workItem from="1569478904732" duration="5271000" />
     </task>
     <task id="LOCAL-00001" summary="ADD_TWO_NUMBERS COMPLETED">
       <created>1568625904817</created>
@@ -423,7 +429,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569418739829</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Sword 061 Completed">
+      <created>1569481759129</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1569481759129</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -457,7 +470,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="p3 NEARLY" />
     <MESSAGE value="P4 COMPLETED" />
     <MESSAGE value="P4 COMPLETED AND LEARN SAMPLE SOLUTION" />
     <MESSAGE value="P5 in progress" />
@@ -482,7 +494,8 @@
     <MESSAGE value="Sword 058 Completed" />
     <MESSAGE value="Sword 059 Completed" />
     <MESSAGE value="Sword 060 Completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sword 060 Completed" />
+    <MESSAGE value="Sword 061 Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sword 061 Completed" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
