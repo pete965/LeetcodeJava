@@ -22,6 +22,8 @@ public class Solution {
                 queue.add(pop.right);
             }
         }
+        boolean[][] booleans=new boolean[][];
         return arrayList;
     }
 }
+
