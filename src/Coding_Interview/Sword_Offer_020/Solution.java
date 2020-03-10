@@ -11,7 +11,7 @@ public class Solution {
             min=node;
             minStack.push(node);
         }else {
-            minStack.push(stack.peek());
+            minStack.push(minStack.peek());
         }
         stack.push(node);
     }

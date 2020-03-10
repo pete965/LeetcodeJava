@@ -5,25 +5,25 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 public class Solution {
-    public ArrayList<Integer> PrintFromTopToBottom(TreeNode root) {
-        ArrayList<Integer> arrayList=new ArrayList<>();
-        if (root==null){
-            return arrayList;
-        }
-        Queue<TreeNode> queue=new LinkedList<>();
-        queue.add(root);
-        while (!queue.isEmpty()){
-            TreeNode pop=queue.remove();
-            arrayList.add(pop.val);
-            if (pop.left!=null){
-                queue.add(pop.left);
-            }
-            if (pop.right!=null){
-                queue.add(pop.right);
-            }
-        }
-        boolean[][] booleans=new boolean[][];
-        return arrayList;
-    }
+//    public ArrayList<Integer> PrintFromTopToBottom(TreeNode root) {
+//        ArrayList<Integer> arrayList=new ArrayList<>();
+//        if (root==null){
+//            return arrayList;
+//        }
+//        Queue<TreeNode> queue=new LinkedList<>();
+//        queue.add(root);
+//        while (!queue.isEmpty()){
+//            TreeNode pop=queue.remove();
+//            arrayList.add(pop.val);
+//            if (pop.left!=null){
+//                queue.add(pop.left);
+//            }
+//            if (pop.right!=null){
+//                queue.add(pop.right);
+//            }
+//        }
+//        boolean[][] booleans=new boolean[][];
+//        return arrayList;
+//    }
 }
 

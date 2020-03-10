@@ -35,7 +35,7 @@ public class Solution {
             System.out.println("Root is:"+root);
             System.out.println("Split is:"+split);
             if(!validate(sequence,split,root)){
-                System.out.println("Validate not apssed");
+                System.out.println("Validate not passed");
                 System.out.println("Root is:"+root);
                 return false;
             }else{
