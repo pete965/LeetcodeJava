@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66e93141-f8e2-472c-a56f-08f3cd22a603" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/RealInterviewQuestions/FirstBigNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_027/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RealInterviewQuestions/NNumbersSumK.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_023/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_023/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/META-INF/LeetcodeJava.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RealInterviewQuestions/FirstBigNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RealInterviewQuestions/FirstBigNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/RealInterviewQuestions/FirstBigNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/RealInterviewQuestions/FirstBigNumber.class" afterDir="false" />
     </list>
     <list id="a7928831-6ef8-4884-9e5a-9f387cff135e" name="Revert &quot;Sword 060 Completed&quot;" comment="Revert &quot;Sword 060 Completed&quot;&#10;&#10;This reverts commit 417b2ab8" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +80,7 @@
       <recent name="C:\孙博洋\Github\Unimelb\LeetcodeJava\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FirstBigNumber">
+  <component name="RunManager" selected="Application.NNumbersSumK">
     <configuration name="FirstBigNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RealInterviewQuestions.FirstBigNumber" />
       <module name="LeetcodeJava" />
@@ -122,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Deep_Thought_Into_Java.PrimitiveClassTest.Main" />
+    <configuration name="NNumbersSumK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RealInterviewQuestions.NNumbersSumK" />
       <module name="LeetcodeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Deep_Thought_Into_Java.PrimitiveClassTest.*" />
+          <option name="PATTERN" value="RealInterviewQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NNumbersSumK" />
         <item itemvalue="Application.FirstBigNumber" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Huiwen" />
         <item itemvalue="Application.HuaweiSolution" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -236,7 +234,7 @@
       <workItem from="1574948860940" duration="636000" />
       <workItem from="1583579530549" duration="4869000" />
       <workItem from="1583720771581" duration="5772000" />
-      <workItem from="1583835188924" duration="1049000" />
+      <workItem from="1583835188924" duration="8430000" />
     </task>
     <task id="LOCAL-00001" summary="ADD_TWO_NUMBERS COMPLETED">
       <created>1568625904817</created>
@@ -660,22 +658,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="Sword 028 In Progress" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="201" key="GridCell.Tab.0.bottom" timestamp="1583836112469">
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom" timestamp="1584173972108">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom/-1048.130.1048.770/0.0.1440.900@0.0.1440.900" timestamp="1584173972108" />
     <state width="1398" height="201" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583836112469" />
-    <state width="1398" height="201" key="GridCell.Tab.0.center" timestamp="1583836112467">
+    <state width="1398" height="231" key="GridCell.Tab.0.center" timestamp="1584173972106">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="231" key="GridCell.Tab.0.center/-1048.130.1048.770/0.0.1440.900@0.0.1440.900" timestamp="1584173972106" />
     <state width="1398" height="201" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583836112467" />
-    <state width="1398" height="201" key="GridCell.Tab.0.left" timestamp="1583836112466">
+    <state width="1398" height="231" key="GridCell.Tab.0.left" timestamp="1584173972105">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="231" key="GridCell.Tab.0.left/-1048.130.1048.770/0.0.1440.900@0.0.1440.900" timestamp="1584173972105" />
     <state width="1398" height="201" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583836112466" />
-    <state width="1398" height="201" key="GridCell.Tab.0.right" timestamp="1583836112468">
+    <state width="1398" height="231" key="GridCell.Tab.0.right" timestamp="1584173972107">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="231" key="GridCell.Tab.0.right/-1048.130.1048.770/0.0.1440.900@0.0.1440.900" timestamp="1584173972107" />
     <state width="1398" height="201" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583836112468" />
+    <state x="426" y="76" key="refactoring.ChangeSignatureDialog" timestamp="1584171709869">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="426" y="76" key="refactoring.ChangeSignatureDialog/-1048.130.1048.770/0.0.1440.900@0.0.1440.900" timestamp="1584171709869" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
