@@ -1,6 +1,8 @@
 package Coding_Interview.Sword_Offer_015;
 
-
+/*
+输入一个链表，反转链表后，输出新链表的表头
+ */
 import java.util.Stack;
 
 public class Solution {

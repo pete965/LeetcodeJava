@@ -2,10 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66e93141-f8e2-472c-a56f-08f3cd22a603" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_027/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RealInterviewQuestions/NNumbersSumK.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/RealInterviewQuestions/FirstBigNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/RealInterviewQuestions/FirstBigNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_001/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_001/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_002/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_002/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_003/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_003/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_004/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_004/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_005/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_005/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_006/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_006/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_007/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_007/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_008/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_008/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_009/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_009/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_010/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_010/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_011/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_011/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_012/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_012/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_013/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_013/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_014/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_014/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_015/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_015/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_016/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_016/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_017/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_017/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_018/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_018/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_019/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_019/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_020/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_020/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_021/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_021/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_022/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_022/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_023/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_023/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_024/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_024/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_025/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_025/Solution.java" afterDir="false" />
     </list>
     <list id="a7928831-6ef8-4884-9e5a-9f387cff135e" name="Revert &quot;Sword 060 Completed&quot;" comment="Revert &quot;Sword 060 Completed&quot;&#10;&#10;This reverts commit 417b2ab8" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,11 +66,6 @@
         <entry key="$PROJECT_DIR$" value="0c5b57bc495a00e16f6438e4af67afb4007365be" />
       </map>
     </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="width" value="978" />
-    <option name="height" value="1050" />
   </component>
   <component name="ProjectId" id="1Qge0KQiZGARLcKtThIY6Km79Ca" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -234,7 +251,7 @@
       <workItem from="1574948860940" duration="636000" />
       <workItem from="1583579530549" duration="4869000" />
       <workItem from="1583720771581" duration="5772000" />
-      <workItem from="1583835188924" duration="8430000" />
+      <workItem from="1583835188924" duration="10253000" />
     </task>
     <task id="LOCAL-00001" summary="ADD_TWO_NUMBERS COMPLETED">
       <created>1568625904817</created>
@@ -558,7 +575,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570290599709</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="NNumbersSumK Complete">
+      <created>1584174079794</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1584174079794</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -630,7 +654,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Sword P55 56  In progress" />
     <MESSAGE value="Sword P56 Completed" />
     <MESSAGE value="Sword P55 Completed" />
     <MESSAGE value="Sword BreOrder Traverse Tree Tools In Progress" />
@@ -655,9 +678,14 @@
     <MESSAGE value="Sword 013 Completed" />
     <MESSAGE value="Sword 019 In Progress" />
     <MESSAGE value="Sword 028 In Progress" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sword 028 In Progress" />
+    <MESSAGE value="NNumbersSumK Complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="NNumbersSumK Complete" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="264" y="50" key="CommitChangelistDialog2" timestamp="1584174079432">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="264" y="50" key="CommitChangelistDialog2/-1048.130.1048.770/0.0.1440.900@0.0.1440.900" timestamp="1584174079432" />
     <state width="1398" height="231" key="GridCell.Tab.0.bottom" timestamp="1584173972108">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -678,6 +706,10 @@
     </state>
     <state width="1398" height="231" key="GridCell.Tab.0.right/-1048.130.1048.770/0.0.1440.900@0.0.1440.900" timestamp="1584173972107" />
     <state width="1398" height="201" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583836112468" />
+    <state x="320" y="191" key="Vcs.Push.Dialog.v2" timestamp="1584174095312">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="191" key="Vcs.Push.Dialog.v2/-1048.130.1048.770/0.0.1440.900@0.0.1440.900" timestamp="1584174095312" />
     <state x="426" y="76" key="refactoring.ChangeSignatureDialog" timestamp="1584171709869">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
