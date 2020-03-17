@@ -1,5 +1,7 @@
 package Coding_Interview.Sword_Offer_039;
-
+/*
+输入一棵二叉树，判断该二叉树是否是平衡二叉树。
+ */
 import Tools.TreeNode;
 
 public class Solution {

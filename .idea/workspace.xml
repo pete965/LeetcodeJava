@@ -2,32 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66e93141-f8e2-472c-a56f-08f3cd22a603" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_030/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_031/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_032/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_033/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_035/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_037/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_040/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_041/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_042/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_043/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_045/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_046/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_047/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_048/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_049/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_050/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_051/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_052/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_053/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_054/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_063/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_001/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_001/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_002/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_002/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_003/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_003/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_004/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_004/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_005/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_005/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_006/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_006/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_007/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_007/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_008/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_008/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_009/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_009/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_010/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_010/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_011/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_011/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_012/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_012/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_013/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_013/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_014/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_014/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_015/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_015/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_016/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_016/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_017/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_017/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_018/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_018/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_019/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_019/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_020/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_020/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_021/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_021/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_022/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_022/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_023/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_023/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_024/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_024/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_025/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_025/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_034/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_034/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_036/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_036/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_038/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_038/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_039/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_039/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_044/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_044/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_055/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_055/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_056/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_056/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_057/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_057/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_058/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_058/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_059/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_059/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_060/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_060/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_061/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_061/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_062/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_062/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_064/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_064/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_065/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_065/Solution.java" afterDir="false" />
     </list>
     <list id="a7928831-6ef8-4884-9e5a-9f387cff135e" name="Revert &quot;Sword 060 Completed&quot;" comment="Revert &quot;Sword 060 Completed&quot;&#10;&#10;This reverts commit 417b2ab8" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,11 +97,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Tools" />
-      <recent name="Sword_Offer_056" />
-      <recent name="Sword_Offer_036" />
-      <recent name="Sword_Offer_016" />
-      <recent name="Sword_Offer_015" />
+      <recent name="Coding_Interview.Sword_Offer_047" />
+      <recent name="Coding_Interview.Sword_Offer_045" />
+      <recent name="Coding_Interview.Sword_Offer_054" />
+      <recent name="Coding_Interview.Sword_Offer_053" />
+      <recent name="Coding_Interview.Sword_Offer_052" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\孙博洋\Github\Unimelb\LeetcodeJava\src\Coding_Interview" />
@@ -251,7 +262,7 @@
       <workItem from="1574948860940" duration="636000" />
       <workItem from="1583579530549" duration="4869000" />
       <workItem from="1583720771581" duration="5772000" />
-      <workItem from="1583835188924" duration="10253000" />
+      <workItem from="1583835188924" duration="13331000" />
     </task>
     <task id="LOCAL-00001" summary="ADD_TWO_NUMBERS COMPLETED">
       <created>1568625904817</created>
@@ -582,7 +593,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584174079794</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Half description of the newcoder problems">
+      <created>1584182340404</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1584182340405</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -654,7 +672,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Sword P56 Completed" />
     <MESSAGE value="Sword P55 Completed" />
     <MESSAGE value="Sword BreOrder Traverse Tree Tools In Progress" />
     <MESSAGE value="Sword BreOrder Traverse Tree Tools Completed" />
@@ -679,13 +696,14 @@
     <MESSAGE value="Sword 019 In Progress" />
     <MESSAGE value="Sword 028 In Progress" />
     <MESSAGE value="NNumbersSumK Complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="NNumbersSumK Complete" />
+    <MESSAGE value="Half description of the newcoder problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="Half description of the newcoder problems" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="264" y="50" key="CommitChangelistDialog2" timestamp="1584174079432">
+    <state x="264" y="50" key="CommitChangelistDialog2" timestamp="1584182339896">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="264" y="50" key="CommitChangelistDialog2/-1048.130.1048.770/0.0.1440.900@0.0.1440.900" timestamp="1584174079432" />
+    <state x="264" y="50" key="CommitChangelistDialog2/-1048.130.1048.770/0.0.1440.900@0.0.1440.900" timestamp="1584182339896" />
     <state width="1398" height="231" key="GridCell.Tab.0.bottom" timestamp="1584173972108">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -706,10 +724,10 @@
     </state>
     <state width="1398" height="231" key="GridCell.Tab.0.right/-1048.130.1048.770/0.0.1440.900@0.0.1440.900" timestamp="1584173972107" />
     <state width="1398" height="201" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583836112468" />
-    <state x="320" y="191" key="Vcs.Push.Dialog.v2" timestamp="1584174095312">
+    <state x="320" y="191" key="Vcs.Push.Dialog.v2" timestamp="1584182348953">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="191" key="Vcs.Push.Dialog.v2/-1048.130.1048.770/0.0.1440.900@0.0.1440.900" timestamp="1584174095312" />
+    <state x="320" y="191" key="Vcs.Push.Dialog.v2/-1048.130.1048.770/0.0.1440.900@0.0.1440.900" timestamp="1584182348953" />
     <state x="426" y="76" key="refactoring.ChangeSignatureDialog" timestamp="1584171709869">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
