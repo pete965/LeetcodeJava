@@ -1,6 +1,8 @@
 package Coding_Interview.Sword_Offer_014;
 
-
+/*
+输入一个链表，输出该链表中倒数第k个结点。
+ */
 import java.util.Stack;
 
 public class Solution {
