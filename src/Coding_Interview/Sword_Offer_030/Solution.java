@@ -8,5 +8,23 @@ HZ偶尔会拿些专业问题来忽悠那些非计算机专业的同学。
 给一个数组，返回它的最大连续子序列的和，你会不会被他忽悠住？(子向量的长度至少是1)
  */
 public class Solution {
-
+    public int calMaxSub(int[] array){
+        int max = 0;
+        int length = array.length;
+        if (length == 0){
+            return 0;
+        }
+        if (length ==1){
+            return array[0];
+        }
+        int[] dp = new int[length];
+        dp[0] = array[0];
+        for (int i=1;i<length;i++){
+            dp[i] = Math.max(dp[i-1]+array[i],array[i]);
+            if(max==0||dp[i]>max){
+                max=dp[i];
+            }
+        }
+        return max;
+    }
 }
