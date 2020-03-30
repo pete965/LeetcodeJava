@@ -2,93 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66e93141-f8e2-472c-a56f-08f3cd22a603" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Deep_Thought_Into_Java/LambdaDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Deep_Thought_Into_Java/StreamDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RealInterviewQuestions/ConvertRandom.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Quick_Sort/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_001/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_002/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_003/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_003/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_004/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_005/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_006/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_007/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_008/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_009/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_010/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_011/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_012/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_013/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_014/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_014/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_015/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_015/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_016/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_016/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_017/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_018/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_019/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_020/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_021/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_022/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_023/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_024/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_025/RandomListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_025/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_026/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_028/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_029/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_034/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_036/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_036/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_038/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_039/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_044/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_055/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_056/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_057/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_058/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_059/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_060/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_061/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_062/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_062/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_064/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_065/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_066/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_067/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Deep_Thought_Into_Java/HuaweiSolution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Deep_Thought_Into_Java/Huiwen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Deep_Thought_Into_Java/PolySolution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Deep_Thought_Into_Java/ScannerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Leetcode/ByteDance/No_146_LRU_Cache/LRUCache.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Leetcode/No_10_Regular_Expression_Matching/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Leetcode/No_11_Container_With_Most_Water/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Leetcode/No_138_Copy_List_with_Random_Pointer/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Leetcode/No_138_Copy_List_with_Random_Pointer/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Leetcode/No_14_Longest_Common_Prefix/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Leetcode/No_1_Two_Sum/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Leetcode/No_2_Add_Two_Numbers/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Leetcode/No_2_Add_Two_Numbers/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Leetcode/No_3_Longest_Substring_Without_Repeating_Characters/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Leetcode/No_3_Longest_Substring_Without_Repeating_Characters/testRegex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Leetcode/No_4_Median_of_Two_Sorted_Arrays/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Leetcode/No_5_Longest_Palindromic_Substring/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Leetcode/No_6_ZigZag_Conversion/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Leetcode/No_7_Reverse_Integer/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Leetcode/No_8_String_to_Integer/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Leetcode/No_9_Palindrome_Number/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/RealInterviewQuestions/AlibabaOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/RealInterviewQuestions/AlibabaThree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/RealInterviewQuestions/AlibabaTwo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/RealInterviewQuestions/FirstBigNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Tools/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Tools/RandomListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Tools/TreeLinkNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Tools/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Tools/Util.class" beforeDir="false" />
     </list>
     <list id="a7928831-6ef8-4884-9e5a-9f387cff135e" name="Revert &quot;Sword 060 Completed&quot;" comment="Revert &quot;Sword 060 Completed&quot;&#10;&#10;This reverts commit 417b2ab8" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -120,7 +35,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_042/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
+            <state relative-caret-position="225">
               <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
               <folding>
                 <element signature="e#239#240#0" expanded="true" />
@@ -139,13 +54,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Deep_Thought_Into_Java/StreamDemo1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
-              <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+              <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/RealInterviewQuestions/ConvertRandom.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+              <folding>
+                <element signature="e#500#501#0" expanded="true" />
+                <element signature="e#539#540#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -212,6 +140,7 @@
         <option value="$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_042/Solution.java" />
         <option value="$PROJECT_DIR$/src/Deep_Thought_Into_Java/LambdaDemo1.java" />
         <option value="$PROJECT_DIR$/src/Deep_Thought_Into_Java/StreamDemo1.java" />
+        <option value="$PROJECT_DIR$/src/RealInterviewQuestions/ConvertRandom.java" />
       </list>
     </option>
   </component>
@@ -229,7 +158,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -242,11 +171,17 @@
               <item name="LeetcodeJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LeetcodeJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetcodeJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="RealInterviewQuestions" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -260,7 +195,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last.edited.regexp" value="aasdfsaaasff" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -287,7 +222,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
+  <component name="RunManager" selected="Application.ConvertRandom">
     <configuration name="AlibabaTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RealInterviewQuestions.AlibabaTwo" />
       <module name="LeetcodeJava" />
@@ -301,8 +236,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstBigNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RealInterviewQuestions.FirstBigNumber" />
+    <configuration name="ConvertRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RealInterviewQuestions.ConvertRandom" />
       <module name="LeetcodeJava" />
       <extension name="coverage">
         <pattern>
@@ -355,11 +290,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConvertRandom" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.LRUCache" />
         <item itemvalue="Application.AlibabaTwo" />
-        <item itemvalue="Application.FirstBigNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -447,7 +382,8 @@
       <workItem from="1585375813404" duration="4908000" />
       <workItem from="1585447676177" duration="23697000" />
       <workItem from="1585541544061" duration="476000" />
-      <workItem from="1585565202339" duration="503000" />
+      <workItem from="1585565202339" duration="1213000" />
+      <workItem from="1585576376954" duration="1582000" />
     </task>
     <task id="LOCAL-00001" summary="ADD_TWO_NUMBERS COMPLETED">
       <created>1568625904817</created>
@@ -785,17 +721,24 @@
       <option name="project" value="LOCAL" />
       <updated>1585500899445</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Stream and Lambda Demo">
+      <created>1585565720424</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1585565720424</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42378000" />
+    <option name="totallyTimeSpent" value="44670000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17627347" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17828418" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -804,7 +747,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.3980447" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.62265414" visible="true" weight="0.3980447" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -813,7 +756,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.52797204" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" visible="true" weight="0.3980447" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.37734583" side_tool="true" visible="true" weight="0.3980447" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3282123" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -907,7 +850,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Sword P55 Completed" />
     <MESSAGE value="Sword BreOrder Traverse Tree Tools In Progress" />
     <MESSAGE value="Sword BreOrder Traverse Tree Tools Completed" />
     <MESSAGE value="Sword 024 In Progress" />
@@ -932,7 +874,8 @@
     <MESSAGE value="Sword 028 In Progress" />
     <MESSAGE value="30,31,32 Completed" />
     <MESSAGE value="37,40,41 Completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="37,40,41 Completed" />
+    <MESSAGE value="Stream and Lambda Demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stream and Lambda Demo" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1398" height="201" key="GridCell.Tab.0.bottom" timestamp="1583836112469">
@@ -1179,7 +1122,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_042/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
+        <state relative-caret-position="225">
           <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
           <folding>
             <element signature="e#239#240#0" expanded="true" />
@@ -1216,9 +1159,20 @@
     <entry file="file://$PROJECT_DIR$/src/Deep_Thought_Into_Java/StreamDemo1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RealInterviewQuestions/ConvertRandom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+          <folding>
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
           </folding>
         </state>
       </provider>
