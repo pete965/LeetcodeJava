@@ -1,5 +1,8 @@
 package Coding_Interview.Sword_Offer_045;
 
+import java.util.Set;
+import java.util.TreeSet;
+
 /*
 LL今天心情特别好,因为他去买了一副扑克牌,发现里面居然有2个大王,2个小王(一副牌原本是54张^_^)...
 他随机从中抽出了5张牌,想测测自己的手气,看看能不能抽到顺子,如果抽到的话,他决定去买体育彩票,嘿嘿！！
@@ -10,4 +13,25 @@ LL决定去买体育彩票啦。 现在,要求你使用这幅牌模拟上面的�
 为了方便起见,你可以认为大小王是0。
  */
 public class Solution {
+    public boolean isContinuous(int [] numbers) {
+        int zero = 0;
+        TreeSet<Integer> set = new TreeSet<>();
+        if (numbers.length!=5){
+            return false;
+        }
+        for (int i=0;i<5;i++){
+            if (numbers[i]!=0){
+                set.add(numbers[i]);
+            }else{
+                zero++;
+            }
+        }
+        if (set.last()-set.first()>4){
+            return false;
+        }
+        if (set.size()+zero!=5){
+            return false;
+        }
+        return true;
+    }
 }
