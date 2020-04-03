@@ -7,4 +7,23 @@ package Coding_Interview.Sword_Offer_050;
 例如，如果输入长度为7的数组{2,3,1,0,2,5,3}，那么对应的输出是第一个重复的数字2。
  */
 public class Solution {
+    public boolean duplicate(int numbers[], int length, int [] duplication) {
+        if (numbers == null || length == 0) {
+            return false;
+        }
+        for (int i = 0; i < length; i++) {
+            while (numbers[i] != i) {
+                if (numbers[i] == numbers[numbers[i]]) {
+                    duplication[0] = numbers[i];
+                    return true;
+                }
+                else {
+                    int temp = numbers[i];
+                    numbers[i] = numbers[temp];
+                    numbers[temp] = temp;
+                }
+            }
+        }
+        return false;
+    }
 }

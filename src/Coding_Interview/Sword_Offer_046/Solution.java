@@ -1,5 +1,7 @@
 package Coding_Interview.Sword_Offer_046;
 
+import java.util.LinkedList;
+
 /*
 每年六一儿童节,牛客都会准备一些小礼物去看望孤儿院的小朋友,今年亦是如此。
 HF作为牛客的资深元老,自然也准备了一些小游戏。其中,有个游戏是这样的:首先,让小朋友们围成一个大圈。
@@ -10,4 +12,34 @@ HF作为牛客的资深元老,自然也准备了一些小游戏。其中,有个�
 如果没有小朋友，请返回-1
  */
 public class Solution {
+    public static void main(String[] args) {
+        Solution solution = new Solution();
+        System.out.println(solution.LastRemaining_Solution(5,3));
+    }
+//    public int LastRemaining_Solution(int n, int m) {
+//        if (n ==0){
+//            return -1;
+//        }
+//        LinkedList<Integer> linkedList = new LinkedList<>();
+//        for (int i=0;i<n;i++){
+//            linkedList.add(i);
+//        }
+//        int current = 0;
+//        while (linkedList.size()!=1){
+//            current = (current+(m-1))%linkedList.size();
+//            linkedList.remove(current);
+//        }
+//        return linkedList.get(0);
+//    }
+
+    public int LastRemaining_Solution(int n, int m) {
+        if(n == 0 || m <= 0) {
+            return -1;
+        }
+        int output = 0;
+        for (int i = 2; i<=n; i++){
+            output = (output + m)%i;
+        }
+        return output;
+    }
 }

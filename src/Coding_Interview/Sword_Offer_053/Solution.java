@@ -6,4 +6,8 @@ package Coding_Interview.Sword_Offer_053;
 但是"12e","1a3.14","1.2.3","+-5"和"12e+4.3"都不是。
  */
 public class Solution {
+    public boolean isNumeric(char[] str) {
+        String s=String.valueOf(str);
+        return s.matches("[\\+\\-]?(\\d*\\.\\d+|\\d+\\.?)([eE][\\+\\-]?\\d+)?");
+    }
 }
