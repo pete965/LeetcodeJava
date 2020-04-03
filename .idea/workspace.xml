@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66e93141-f8e2-472c-a56f-08f3cd22a603" name="Default Changelist" comment="Random Converter">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/No_136_Single_Number/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/No_202_Happy_Number/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/No_53_Maximum_Subarray/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_3_Longest_Substring_Without_Repeating_Characters/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_3_Longest_Substring_Without_Repeating_Characters/testRegex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_53_Maximum_Subarray/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_2_Add_Two_Numbers/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_2_Add_Two_Numbers/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_049/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_049/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_052/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_052/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_053/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_053/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_054/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_054/Solution.class" afterDir="false" />
     </list>
     <list id="a7928831-6ef8-4884-9e5a-9f387cff135e" name="Revert &quot;Sword 060 Completed&quot;" comment="Revert &quot;Sword 060 Completed&quot;&#10;&#10;This reverts commit 417b2ab8" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -41,8 +33,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Leetcode_Bytedance/No_53_Maximum_Subarray/Solution.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Leetcode_Bytedance/No_2_Add_Two_Numbers/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="35" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Leetcode_Bytedance/No_3_Longest_Substring_Without_Repeating_Characters/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Leetcode_Bytedance/No_2_Add_Two_Numbers/ListNode.java">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -104,6 +119,8 @@
         <option value="$PROJECT_DIR$/src/Leetcode/No_53_Maximum_Subarray/Solution.java" />
         <option value="$PROJECT_DIR$/src/Leetcode_Bytedance/No_3_Longest_Substring_Without_Repeating_Characters/Solution.java" />
         <option value="$PROJECT_DIR$/src/Leetcode_Bytedance/No_53_Maximum_Subarray/Solution.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode_Bytedance/No_2_Add_Two_Numbers/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode_Bytedance/No_2_Add_Two_Numbers/Solution.java" />
       </list>
     </option>
   </component>
@@ -169,11 +186,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Leetcode_Bytedance.No_2_Add_Two_Numbers" />
       <recent name="Leetcode_Bytedance.No_53_Maximum_Subarray" />
       <recent name="Tools" />
       <recent name="Sword_Offer_056" />
       <recent name="Sword_Offer_036" />
-      <recent name="Sword_Offer_016" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\孙博洋\Github\Unimelb\LeetcodeJava\src\Leetcode_Bytedance" />
@@ -358,7 +375,7 @@
       <workItem from="1585628769426" duration="9966000" />
       <workItem from="1585715653376" duration="10036000" />
       <workItem from="1585799299180" duration="599000" />
-      <workItem from="1585883662867" duration="13579000" />
+      <workItem from="1585883662867" duration="17785000" />
     </task>
     <task id="LOCAL-00002" summary="P3 DOING">
       <created>1568629761548</created>
@@ -707,7 +724,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80126000" />
+    <option name="totallyTimeSpent" value="84332000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1088" y="-8" width="1096" height="1906" extended-state="6" />
@@ -721,7 +738,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6148649" visible="true" weight="0.47460496" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6148649" visible="true" weight="0.33972913" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49227798" weight="0.39954853" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -730,7 +747,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.52797204" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.38513514" side_tool="true" visible="true" weight="0.47460496" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.38513514" side_tool="true" visible="true" weight="0.33972913" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3282123" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -886,24 +903,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/AbstractStringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="676" selection-start-line="676" selection-end-line="676" />
-          <folding>
-            <element signature="e#1327#1328#0" expanded="true" />
-            <element signature="e#1369#1370#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RealInterviewQuestions/ConvertRandom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/StringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9225">
@@ -1209,13 +1208,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode_Bytedance/No_3_Longest_Substring_Without_Repeating_Characters/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Leetcode_Bytedance/No_3_Longest_Substring_Without_Repeating_Characters/testRegex.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -1277,6 +1269,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Leetcode_Bytedance/No_53_Maximum_Subarray/Solution.java">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode_Bytedance/No_2_Add_Two_Numbers/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode_Bytedance/No_2_Add_Two_Numbers/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="35" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode_Bytedance/No_3_Longest_Substring_Without_Repeating_Characters/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
