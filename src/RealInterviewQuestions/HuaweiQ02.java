@@ -4,7 +4,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
-//二进制中，00可以变为10；10可以变为01，问输入一个二进制数，最大能变成多少
+//对于一个二进制数，我们可以把其中的“00”变为“10”；可以把其中的“10”变为“01”，问输入一个二进制数，最大能变成多少
+//输入描述，第一行为case的总数；对于下面的每两行中，第一行为二进制数的位数，第二行为对应二进制数
 //输入：
 //        2
 //        2
@@ -14,6 +15,10 @@ import java.util.Scanner;
 //输出：
 //        10
 //        1101
+//输入输出解释：
+//第一行2说明有两组数字
+//第一组数字：长度为2的二进制数“10”，可以通过上述变换得到的最大二进制数字为10
+//第二组数字：长度为4的二进制数“0001”，可以通过上述变换得到的最大二进制数字为1101
 public class HuaweiQ02 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

@@ -12,6 +12,7 @@ import java.util.Scanner;
 //        {1,5,6,0,2,0,0,0,3}
 //        {4,0,2,0,9,6,0,0,7}
 //        {9,0,0,0,0,3,0,0,1}
+//其中0代表空位
 public class HuaweiQ01 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
