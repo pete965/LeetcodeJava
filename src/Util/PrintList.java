@@ -1,4 +1,4 @@
-package Leetcode_Bytedance.Util;
+package Util;
 
 import Leetcode_Bytedance.No_21_Merge_Two_Sorted_Lists.ListNode;
 
@@ -11,5 +11,13 @@ public class PrintList {
         }
         System.out.print("null");
         System.out.println("\n----------End----------");
+    }
+
+    public static void printNode(ListNode middleNode) {
+        if (middleNode ==null){
+            System.out.println("This node is null");
+        }else {
+            System.out.println("This node is "+middleNode.val);
+        }
     }
 }

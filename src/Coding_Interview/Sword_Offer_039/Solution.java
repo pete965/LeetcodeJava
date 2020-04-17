@@ -2,7 +2,7 @@ package Coding_Interview.Sword_Offer_039;
 /*
 输入一棵二叉树，判断该二叉树是否是平衡二叉树。
  */
-import Tools.TreeNode;
+import Beans.TreeNode;
 
 public class Solution {
     public boolean IsBalanced_Solution(TreeNode root) {

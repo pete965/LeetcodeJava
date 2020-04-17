@@ -6,7 +6,7 @@ package Coding_Interview.Sword_Offer_061;
 以 ！ 表示一个结点值的结束（value!）。
 二叉树的反序列化是指：根据某种遍历顺序得到的序列化字符串结果str，重构二叉树。
  */
-import Tools.TreeNode;
+import Beans.TreeNode;
 
 public class Solution {
     public static void main(String[] args){

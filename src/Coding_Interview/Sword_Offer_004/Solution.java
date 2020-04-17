@@ -1,6 +1,6 @@
 package Coding_Interview.Sword_Offer_004;
-import Tools.TreeNode;
-import Tools.Util;
+import Beans.TreeNode;
+import Beans.Util;
 
 /*
 输入某二叉树的前序遍历和中序遍历的结果，请重建出该二叉树。

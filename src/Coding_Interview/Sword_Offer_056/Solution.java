@@ -1,6 +1,6 @@
 package Coding_Interview.Sword_Offer_056;
-import Tools.ListNode;
-import Tools.Util;
+import Beans.ListNode;
+import Beans.Util;
 
 /*
 在一个排序的链表中，存在重复的结点，请删除该链表中重复的结点，重复的结点不保留，返回链表头指针。

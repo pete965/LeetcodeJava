@@ -1,5 +1,5 @@
 package Coding_Interview.Sword_Offer_022;
-import Tools.TreeNode;
+import Beans.TreeNode;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;

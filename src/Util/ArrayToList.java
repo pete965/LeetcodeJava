@@ -1,4 +1,4 @@
-package Leetcode_Bytedance.Util;
+package Util;
 
 import Leetcode_Bytedance.No_21_Merge_Two_Sorted_Lists.ListNode;
 

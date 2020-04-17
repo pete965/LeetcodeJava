@@ -1,4 +1,4 @@
-package Tools;
+package Beans;
 
 public class ListNode {
     public int val;

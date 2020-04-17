@@ -2,7 +2,7 @@ package Coding_Interview.Sword_Offer_038;
 /*
 输入一棵二叉树，求该树的深度。从根结点到叶结点依次经过的结点（含根、叶结点）形成树的一条路径，最长路径的长度为树的深度。
  */
-import Tools.TreeNode;
+import Beans.TreeNode;
 
 public class Solution {
     int max=1;

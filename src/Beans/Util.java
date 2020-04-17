@@ -1,4 +1,4 @@
-package Tools;
+package Beans;
 
 import java.util.LinkedList;
 import java.util.Queue;
