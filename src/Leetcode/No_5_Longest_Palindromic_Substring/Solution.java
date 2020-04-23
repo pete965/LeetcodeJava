@@ -4,7 +4,7 @@ public class Solution {
     public static void main(String[] args){
         int[][] a=new int[3][5];
         System.out.println(a[2][2]);
-//        Solution solution = new Solution();
+//        MinStack solution = new MinStack();
 //        System.out.println(solution.longestPalindrome("babad"));
     }
     public String longestPalindrome(String s) {
@@ -50,7 +50,7 @@ public class Solution {
         }
         return pOrNot[i][j];
     }
-//    class Solution {
+//    class MinStack {
 //        public String longestPalindrome(String s) {
 //            if (s.length()==0){
 //                return "";
