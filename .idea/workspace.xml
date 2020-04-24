@@ -20,43 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66e93141-f8e2-472c-a56f-08f3cd22a603" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/No_1046_Last_Stone_Weight/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/No_238_Product_of_Array_Except_Self/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/No_525_Contiguous_Array/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/No_543_Diameter_of_Binary_Tree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/No_844_Backspace_Space_Compare/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Special_No_2_Perform_String_Shifts/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_155_Min_Stack/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RealInterviewQuestions/Meituan1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RealInterviewQuestions/Meituan2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RealInterviewQuestions/Meituan3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RealInterviewQuestions/Meituan4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RealInterviewQuestions/Meituan5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/No_678_Valid_Parenthesis_String/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RealInterviewQuestions/NNumberSumKDynamicProgramming.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_004/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_004/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_017/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_017/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_018/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_018/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_022/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_022/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_024/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_024/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_026/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_026/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_038/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_038/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_039/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_039/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_055/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_055/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_056/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_056/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_057/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_057/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_058/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_058/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_059/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_059/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_060/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_060/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_061/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_061/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/META-INF/LeetcodeJava.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/META-INF/LeetcodeJava.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Tools/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Tools/RandomListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Tools/TreeLinkNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Tools/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Tools/Util.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Beans/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beans/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Beans/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beans/Util.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/No_5_Longest_Palindromic_Substring/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/No_5_Longest_Palindromic_Substring/Solution.java" afterDir="false" />
     </list>
     <list id="a7928831-6ef8-4884-9e5a-9f387cff135e" name="Revert &quot;Sword 060 Completed&quot;" comment="Revert &quot;Sword 060 Completed&quot;&#10;&#10;This reverts commit 417b2ab8" />
     <option name="SHOW_DIALOG" value="false" />
@@ -132,35 +98,9 @@
       <recent name="C:\孙博洋\Github\Unimelb\LeetcodeJava\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Meituan2">
-    <configuration name="Meituan1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RealInterviewQuestions.Meituan1" />
-      <module name="LeetcodeJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="RealInterviewQuestions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.NNumberSumKDynamicProgramming">
     <configuration name="Meituan2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RealInterviewQuestions.Meituan2" />
-      <module name="LeetcodeJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="RealInterviewQuestions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Meituan3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RealInterviewQuestions.Meituan3" />
       <module name="LeetcodeJava" />
       <extension name="coverage">
         <pattern>
@@ -185,12 +125,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.No_238_Product_of_Array_Except_Self.Solution" />
+    <configuration name="NNumberSumKDynamicProgramming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RealInterviewQuestions.NNumberSumKDynamicProgramming" />
       <module name="LeetcodeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode.No_238_Product_of_Array_Except_Self.*" />
+          <option name="PATTERN" value="RealInterviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NNumbersSumK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RealInterviewQuestions.NNumbersSumK" />
+      <module name="LeetcodeJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RealInterviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.No_678_Valid_Parenthesis_String.Solution" />
+      <module name="LeetcodeJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leetcode.No_678_Valid_Parenthesis_String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NNumberSumKDynamicProgramming" />
+        <item itemvalue="Application.NNumbersSumK" />
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Meituan2" />
         <item itemvalue="Application.Meituan5" />
-        <item itemvalue="Application.Meituan3" />
-        <item itemvalue="Application.Meituan1" />
-        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -307,14 +273,8 @@
       <workItem from="1587269156351" duration="4695000" />
       <workItem from="1587371515686" duration="5023000" />
       <workItem from="1587556299218" duration="600000" />
-      <workItem from="1587631175854" duration="13395000" />
-    </task>
-    <task id="LOCAL-00010" summary="P6 completed">
-      <created>1568799279282</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1568799279282</updated>
+      <workItem from="1587631175854" duration="14036000" />
+      <workItem from="1587715096259" duration="14638000" />
     </task>
     <task id="LOCAL-00011" summary="P138 completed">
       <created>1568820842839</created>
@@ -652,7 +612,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587152400586</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Meituan Five Questions">
+      <created>1587647679355</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1587647679355</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -715,7 +682,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Sword 059 Completed" />
     <MESSAGE value="Sword 060 Completed" />
     <MESSAGE value="Sword 061 Completed" />
     <MESSAGE value="Sword 020 Completed" />
@@ -740,73 +706,94 @@
     <MESSAGE value="Real Interview Update" />
     <MESSAGE value="Challenge No 5, 7" />
     <MESSAGE value="Daily Update with Utils and Tools update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Daily Update with Utils and Tools update" />
+    <MESSAGE value="Meituan Five Questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Meituan Five Questions" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-735" y="628" key="#com.intellij.ide.util.MemberChooser" timestamp="1587640240417">
+    <state x="-735" y="628" key="#com.intellij.ide.util.MemberChooser" timestamp="1587736353424">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
-    <state x="-735" y="628" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587640240417" />
+    <state x="-735" y="628" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587736353424" />
+    <state x="-811" y="734" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587740441082">
+      <screen x="-1080" y="0" width="1080" height="1890" />
+    </state>
+    <state x="-811" y="734" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587740441082" />
+    <state x="-764" y="837" width="447" height="222" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587715704961">
+      <screen x="-1080" y="0" width="1080" height="1890" />
+    </state>
+    <state x="-764" y="837" width="447" height="222" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587715704961" />
     <state x="-827" y="758" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1587643488495">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state x="-827" y="758" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587643488495" />
-    <state width="1037" height="400" key="GridCell.Tab.0.bottom" timestamp="1587646581148">
+    <state x="-802" y="834" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1587739152444">
+      <screen x="-1080" y="0" width="1080" height="1890" />
+    </state>
+    <state x="-802" y="834" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587739152444" />
+    <state x="-973" y="509" key="CommitChangelistDialog2" timestamp="1587647678284">
+      <screen x="-1080" y="0" width="1080" height="1890" />
+    </state>
+    <state x="-973" y="509" key="CommitChangelistDialog2/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587647678284" />
+    <state width="1037" height="402" key="GridCell.Tab.0.bottom" timestamp="1587742772003">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1587404243334">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587404243334" />
-    <state width="1037" height="400" key="GridCell.Tab.0.bottom/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587646581148" />
+    <state width="1037" height="402" key="GridCell.Tab.0.bottom/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587742772003" />
     <state width="1398" height="201" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583836112469" />
-    <state width="1037" height="400" key="GridCell.Tab.0.center" timestamp="1587646581148">
+    <state width="1037" height="402" key="GridCell.Tab.0.center" timestamp="1587742772003">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1587404243334">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.center.inPresentationMode/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587404243334" />
-    <state width="1037" height="400" key="GridCell.Tab.0.center/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587646581148" />
+    <state width="1037" height="402" key="GridCell.Tab.0.center/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587742772003" />
     <state width="1398" height="201" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583836112467" />
-    <state width="1037" height="400" key="GridCell.Tab.0.left" timestamp="1587646581148">
+    <state width="1037" height="402" key="GridCell.Tab.0.left" timestamp="1587742772002">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1587404243334">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.left.inPresentationMode/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587404243334" />
-    <state width="1037" height="400" key="GridCell.Tab.0.left/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587646581148" />
+    <state width="1037" height="402" key="GridCell.Tab.0.left/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587742772002" />
     <state width="1398" height="201" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583836112466" />
-    <state width="1037" height="400" key="GridCell.Tab.0.right" timestamp="1587646581148">
+    <state width="1037" height="402" key="GridCell.Tab.0.right" timestamp="1587742772003">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1587404243334">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.right.inPresentationMode/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587404243334" />
-    <state width="1037" height="400" key="GridCell.Tab.0.right/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587646581148" />
+    <state width="1037" height="402" key="GridCell.Tab.0.right/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587742772003" />
     <state width="1398" height="201" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583836112468" />
-    <state width="1037" height="687" key="GridCell.Tab.1.bottom" timestamp="1587643669580">
+    <state width="1037" height="687" key="GridCell.Tab.1.bottom" timestamp="1587742212723">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
-    <state width="1037" height="687" key="GridCell.Tab.1.bottom/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587643669580" />
-    <state width="1037" height="687" key="GridCell.Tab.1.center" timestamp="1587643669580">
+    <state width="1037" height="687" key="GridCell.Tab.1.bottom/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587742212723" />
+    <state width="1037" height="687" key="GridCell.Tab.1.center" timestamp="1587742212723">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
-    <state width="1037" height="687" key="GridCell.Tab.1.center/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587643669580" />
-    <state width="1037" height="687" key="GridCell.Tab.1.left" timestamp="1587643669580">
+    <state width="1037" height="687" key="GridCell.Tab.1.center/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587742212723" />
+    <state width="1037" height="687" key="GridCell.Tab.1.left" timestamp="1587742212723">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
-    <state width="1037" height="687" key="GridCell.Tab.1.left/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587643669580" />
-    <state width="1037" height="687" key="GridCell.Tab.1.right" timestamp="1587643669580">
+    <state width="1037" height="687" key="GridCell.Tab.1.left/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587742212723" />
+    <state width="1037" height="687" key="GridCell.Tab.1.right" timestamp="1587742212723">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
-    <state width="1037" height="687" key="GridCell.Tab.1.right/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587643669580" />
-    <state x="-1039" y="589" key="SettingsEditor" timestamp="1587643623616">
+    <state width="1037" height="687" key="GridCell.Tab.1.right/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587742212723" />
+    <state x="-1039" y="589" key="SettingsEditor" timestamp="1587740447818">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
-    <state x="-1039" y="589" key="SettingsEditor/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587643623616" />
+    <state x="-1039" y="589" key="SettingsEditor/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587740447818" />
+    <state x="-948" y="677" key="Vcs.Push.Dialog.v2" timestamp="1587648035633">
+      <screen x="-1080" y="0" width="1080" height="1890" />
+    </state>
+    <state x="-948" y="677" key="Vcs.Push.Dialog.v2/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587648035633" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -815,6 +802,11 @@
           <url>file://$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_067/Solution.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RealInterviewQuestions/NNumberSumKDynamicProgramming.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
