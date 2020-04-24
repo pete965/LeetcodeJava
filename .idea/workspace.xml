@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66e93141-f8e2-472c-a56f-08f3cd22a603" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/No_678_Valid_Parenthesis_String/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RealInterviewQuestions/NNumberSumKDynamicProgramming.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RealInterviewQuestions/NNumberSumKDynamicProgramming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RealInterviewQuestions/NNumberSumKDynamicProgramming.java" afterDir="false" />
     </list>
     <list id="a7928831-6ef8-4884-9e5a-9f387cff135e" name="Revert &quot;Sword 060 Completed&quot;" comment="Revert &quot;Sword 060 Completed&quot;&#10;&#10;This reverts commit 417b2ab8" />
     <option name="SHOW_DIALOG" value="false" />
@@ -274,21 +273,7 @@
       <workItem from="1587371515686" duration="5023000" />
       <workItem from="1587556299218" duration="600000" />
       <workItem from="1587631175854" duration="14036000" />
-      <workItem from="1587715096259" duration="14638000" />
-    </task>
-    <task id="LOCAL-00011" summary="P138 completed">
-      <created>1568820842839</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1568820842839</updated>
-    </task>
-    <task id="LOCAL-00012" summary="P7 completed">
-      <created>1568856540566</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1568856540566</updated>
+      <workItem from="1587715096259" duration="15468000" />
     </task>
     <task id="LOCAL-00013" summary="P9 completed">
       <created>1568949690167</created>
@@ -619,7 +604,21 @@
       <option name="project" value="LOCAL" />
       <updated>1587647679355</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Update NNumberSumK Dynamic Programming Solution">
+      <created>1587743004478</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1587743004478</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Update NNumberSumK Dynamic Programming Solution Update#1">
+      <created>1587743119227</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1587743119227</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -682,8 +681,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Sword 060 Completed" />
-    <MESSAGE value="Sword 061 Completed" />
     <MESSAGE value="Sword 020 Completed" />
     <MESSAGE value="Sword 064 Completed" />
     <MESSAGE value="Sword 029 Completed" />
@@ -707,7 +704,9 @@
     <MESSAGE value="Challenge No 5, 7" />
     <MESSAGE value="Daily Update with Utils and Tools update" />
     <MESSAGE value="Meituan Five Questions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Meituan Five Questions" />
+    <MESSAGE value="Update NNumberSumK Dynamic Programming Solution" />
+    <MESSAGE value="Update NNumberSumK Dynamic Programming Solution Update#1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update NNumberSumK Dynamic Programming Solution Update#1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-735" y="628" key="#com.intellij.ide.util.MemberChooser" timestamp="1587736353424">
@@ -730,45 +729,45 @@
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state x="-802" y="834" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587739152444" />
-    <state x="-973" y="509" key="CommitChangelistDialog2" timestamp="1587647678284">
+    <state x="-973" y="509" key="CommitChangelistDialog2" timestamp="1587743118702">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
-    <state x="-973" y="509" key="CommitChangelistDialog2/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587647678284" />
-    <state width="1037" height="402" key="GridCell.Tab.0.bottom" timestamp="1587742772003">
+    <state x="-973" y="509" key="CommitChangelistDialog2/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587743118702" />
+    <state width="1037" height="402" key="GridCell.Tab.0.bottom" timestamp="1587743101353">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1587404243334">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587404243334" />
-    <state width="1037" height="402" key="GridCell.Tab.0.bottom/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587742772003" />
+    <state width="1037" height="402" key="GridCell.Tab.0.bottom/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587743101353" />
     <state width="1398" height="201" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583836112469" />
-    <state width="1037" height="402" key="GridCell.Tab.0.center" timestamp="1587742772003">
+    <state width="1037" height="402" key="GridCell.Tab.0.center" timestamp="1587743101353">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1587404243334">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.center.inPresentationMode/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587404243334" />
-    <state width="1037" height="402" key="GridCell.Tab.0.center/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587742772003" />
+    <state width="1037" height="402" key="GridCell.Tab.0.center/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587743101353" />
     <state width="1398" height="201" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583836112467" />
-    <state width="1037" height="402" key="GridCell.Tab.0.left" timestamp="1587742772002">
+    <state width="1037" height="402" key="GridCell.Tab.0.left" timestamp="1587743101353">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1587404243334">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.left.inPresentationMode/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587404243334" />
-    <state width="1037" height="402" key="GridCell.Tab.0.left/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587742772002" />
+    <state width="1037" height="402" key="GridCell.Tab.0.left/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587743101353" />
     <state width="1398" height="201" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583836112466" />
-    <state width="1037" height="402" key="GridCell.Tab.0.right" timestamp="1587742772003">
+    <state width="1037" height="402" key="GridCell.Tab.0.right" timestamp="1587743101353">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1587404243334">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.right.inPresentationMode/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587404243334" />
-    <state width="1037" height="402" key="GridCell.Tab.0.right/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587742772003" />
+    <state width="1037" height="402" key="GridCell.Tab.0.right/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587743101353" />
     <state width="1398" height="201" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583836112468" />
     <state width="1037" height="687" key="GridCell.Tab.1.bottom" timestamp="1587742212723">
       <screen x="-1080" y="0" width="1080" height="1890" />
@@ -790,10 +789,10 @@
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state x="-1039" y="589" key="SettingsEditor/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587740447818" />
-    <state x="-948" y="677" key="Vcs.Push.Dialog.v2" timestamp="1587648035633">
+    <state x="-948" y="677" key="Vcs.Push.Dialog.v2" timestamp="1587743156911">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
-    <state x="-948" y="677" key="Vcs.Push.Dialog.v2/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587648035633" />
+    <state x="-948" y="677" key="Vcs.Push.Dialog.v2/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587743156911" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -805,7 +804,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/RealInterviewQuestions/NNumberSumKDynamicProgramming.java</url>
-          <line>11</line>
+          <line>15</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
