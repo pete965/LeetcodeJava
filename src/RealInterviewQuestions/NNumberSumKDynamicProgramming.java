@@ -9,6 +9,7 @@ public class NNumberSumKDynamicProgramming {
         int n=3;
         int k=6;
         Combination[][] dp = new Combination[n][k];
+        System.out.println(n+" numbers, their sum is "+ k +", all possibilities:");
         nNumberSumKDynamicProgramming.allPossibilities(dp,n,k);
     }
     public void allPossibilities(Combination[][] dp, int n, int k){
