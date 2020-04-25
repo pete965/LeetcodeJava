@@ -44,7 +44,7 @@ public class Util {
         queue.add(root);
         while (!queue.isEmpty()){
             TreeNode pop=queue.remove();
-            output+=pop.val;
+            output+=(pop.val)+",";
             if (pop.left!=null){
                 queue.add(pop.left);
             }
