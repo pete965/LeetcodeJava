@@ -1,6 +1,5 @@
-package RealInterviewQuestions;
+package RealInterviewQuestions.Others;
 
-import java.util.ArrayList;
 import java.util.LinkedList;
 
 public class NNumberSumKDynamicProgramming {

@@ -1,4 +1,4 @@
-package RealInterviewQuestions;
+package RealInterviewQuestions.Alibaba;
 import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Scanner;

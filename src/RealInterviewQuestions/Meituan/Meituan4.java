@@ -1,4 +1,4 @@
-package RealInterviewQuestions;
+package RealInterviewQuestions.Meituan;
 
 import java.util.Scanner;
 

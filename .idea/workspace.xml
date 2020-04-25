@@ -20,12 +20,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66e93141-f8e2-472c-a56f-08f3cd22a603" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/No_200_Number_of_Islands/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/No_64_Minimum_Path_Sum/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/RealInterviewQuestions/NNumberSumKDynamicProgramming$Combination.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/RealInterviewQuestions/NNumberSumKDynamicProgramming$Combination.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/RealInterviewQuestions/NNumberSumKDynamicProgramming.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/RealInterviewQuestions/NNumberSumKDynamicProgramming.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RealInterviewQuestions/AlibabaTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RealInterviewQuestions/AlibabaTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RealInterviewQuestions/Netease/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RealInterviewQuestions/Netease/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RealInterviewQuestions/Netease/Solution3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RealInterviewQuestions/AlibabaTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RealInterviewQuestions/Alibaba/AlibabaTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RealInterviewQuestions/ConvertRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RealInterviewQuestions/Others/ConvertRandom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RealInterviewQuestions/FirstBigNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RealInterviewQuestions/Others/FirstBigNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RealInterviewQuestions/HuaweiQ01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RealInterviewQuestions/Huawei/HuaweiQ01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RealInterviewQuestions/HuaweiQ02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RealInterviewQuestions/Huawei/HuaweiQ02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RealInterviewQuestions/HuaweiQ03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RealInterviewQuestions/Huawei/HuaweiQ03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RealInterviewQuestions/Meituan1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RealInterviewQuestions/Meituan/Meituan1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RealInterviewQuestions/Meituan2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RealInterviewQuestions/Meituan/Meituan2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RealInterviewQuestions/Meituan3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RealInterviewQuestions/Meituan/Meituan3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RealInterviewQuestions/Meituan4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RealInterviewQuestions/Meituan/Meituan4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RealInterviewQuestions/Meituan5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RealInterviewQuestions/Meituan/Meituan5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RealInterviewQuestions/NNumberSumKDynamicProgramming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RealInterviewQuestions/Others/NNumberSumKDynamicProgramming.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RealInterviewQuestions/NNumbersSumK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RealInterviewQuestions/Others/NNumbersSumK.java" afterDir="false" />
     </list>
     <list id="a7928831-6ef8-4884-9e5a-9f387cff135e" name="Revert &quot;Sword 060 Completed&quot;" comment="Revert &quot;Sword 060 Completed&quot;&#10;&#10;This reverts commit 417b2ab8" />
     <option name="SHOW_DIALOG" value="false" />
@@ -103,11 +113,11 @@
   </component>
   <component name="RunManager" selected="Application.AlibabaTwo">
     <configuration name="AlibabaTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RealInterviewQuestions.AlibabaTwo" />
+      <option name="MAIN_CLASS_NAME" value="RealInterviewQuestions.Alibaba.AlibabaTwo" />
       <module name="LeetcodeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RealInterviewQuestions.*" />
+          <option name="PATTERN" value="RealInterviewQuestions.Alibaba.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +126,11 @@
       </method>
     </configuration>
     <configuration name="NNumberSumKDynamicProgramming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RealInterviewQuestions.NNumberSumKDynamicProgramming" />
+      <option name="MAIN_CLASS_NAME" value="RealInterviewQuestions.Others.NNumberSumKDynamicProgramming" />
       <module name="LeetcodeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RealInterviewQuestions.*" />
+          <option name="PATTERN" value="RealInterviewQuestions.Alibaba.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +139,11 @@
       </method>
     </configuration>
     <configuration name="NNumbersSumK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RealInterviewQuestions.NNumbersSumK" />
+      <option name="MAIN_CLASS_NAME" value="RealInterviewQuestions.Others.NNumbersSumK" />
       <module name="LeetcodeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RealInterviewQuestions.*" />
+          <option name="PATTERN" value="RealInterviewQuestions.Alibaba.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -279,14 +289,7 @@
       <workItem from="1587631175854" duration="14036000" />
       <workItem from="1587715096259" duration="15734000" />
       <workItem from="1587745669940" duration="2421000" />
-      <workItem from="1587788554333" duration="1099000" />
-    </task>
-    <task id="LOCAL-00014" summary="P11 completed">
-      <created>1569237393464</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1569237393464</updated>
+      <workItem from="1587788554333" duration="1427000" />
     </task>
     <task id="LOCAL-00015" summary="P14 completed">
       <created>1569244044959</created>
@@ -624,7 +627,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587743737490</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Update Alibaba Question Two and Two Solved Leetcode Questions">
+      <created>1587790332373</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1587790332374</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -687,7 +697,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Sword 064 Completed" />
     <MESSAGE value="Sword 029 Completed" />
     <MESSAGE value="Sword 001 Completed" />
     <MESSAGE value="Sword 066 Completed" />
@@ -712,7 +721,8 @@
     <MESSAGE value="Update NNumberSumK Dynamic Programming Solution" />
     <MESSAGE value="Update NNumberSumK Dynamic Programming Solution Update#1" />
     <MESSAGE value="Add comments, Update NNumberSumK Dynamic Programming Solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add comments, Update NNumberSumK Dynamic Programming Solution" />
+    <MESSAGE value="Update Alibaba Question Two and Two Solved Leetcode Questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Alibaba Question Two and Two Solved Leetcode Questions" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-735" y="628" key="#com.intellij.ide.util.MemberChooser" timestamp="1587736353424">
@@ -809,7 +819,7 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/RealInterviewQuestions/NNumberSumKDynamicProgramming.java</url>
+          <url>file://$PROJECT_DIR$/src/RealInterviewQuestions/Others/NNumberSumKDynamicProgramming.java</url>
           <line>15</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>

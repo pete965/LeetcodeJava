@@ -1,4 +1,4 @@
-package RealInterviewQuestions;
+package RealInterviewQuestions.Huawei;
 
 import java.util.ArrayList;
 import java.util.Arrays;

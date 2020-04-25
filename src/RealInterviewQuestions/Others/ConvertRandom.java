@@ -1,4 +1,4 @@
-package RealInterviewQuestions;
+package RealInterviewQuestions.Others;
 
 import java.util.Arrays;
 

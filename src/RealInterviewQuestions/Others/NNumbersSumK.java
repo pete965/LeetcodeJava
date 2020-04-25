@@ -1,4 +1,4 @@
-package RealInterviewQuestions;
+package RealInterviewQuestions.Others;
 //n integer numbers, sum is k(k>n). How many possibilities? Or list all the possibilities
 
 import java.util.ArrayList;
