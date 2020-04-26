@@ -1,4 +1,4 @@
-package Deep_Thought_Into_Java;
+package RealInterviewQuestions.Huawei;
 
 import java.util.ArrayList;
 import java.util.List;
