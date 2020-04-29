@@ -34,5 +34,6 @@ public class QuickSort {
         a[i] = index;// 将基准数值替换回 a[i]
         sort(a, low, i - 1); // 对低子表进行递归排序
         sort(a, i + 1, hight); // 对高子表进行递归排序
+
     }
 }
