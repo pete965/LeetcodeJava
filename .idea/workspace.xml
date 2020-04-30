@@ -19,18 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66e93141-f8e2-472c-a56f-08f3cd22a603" name="Default Changelist" comment="Update Sort Algorithms.">
-      <change afterPath="$PROJECT_DIR$/src/Deep_Thought_Into_Java/HashmapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/No_124_Binary_Tree_Maximum_Path_Sum/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/No_221_Maximal_Square/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Special_No_4_First_Unique_Number/FirstUnique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RealInterviewQuestions/Meituan/NumbersSplit.java" afterDir="false" />
+    <list default="true" id="66e93141-f8e2-472c-a56f-08f3cd22a603" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Special_No_4_Check_if_a_Valid_Sequence_from_Root_to_Leaves_Path_in_a_Binary_Tree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_567_Permutation_in_String/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_029/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Coding_Interview/Sword_Offer_029/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Sorting/Quick_Sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Sorting/Quick_Sort/QuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Util/ArrayToList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Util/ArrayToList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorting/Quick_Sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting/Quick_Sort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Util/ArrayToList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Util/ArrayToList.java" afterDir="false" />
     </list>
     <list id="a7928831-6ef8-4884-9e5a-9f387cff135e" name="Revert &quot;Sword 060 Completed&quot;" comment="Revert &quot;Sword 060 Completed&quot;&#10;&#10;This reverts commit 417b2ab8" />
     <option name="SHOW_DIALOG" value="false" />
@@ -291,14 +283,9 @@
       <workItem from="1587954555657" duration="5609000" />
       <workItem from="1587970018392" duration="893000" />
       <workItem from="1588142390275" duration="8131000" />
-      <workItem from="1588173033567" duration="6229000" />
-    </task>
-    <task id="LOCAL-00020" summary="Sword P55 Completed">
-      <created>1569305129757</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1569305129757</updated>
+      <workItem from="1588173033567" duration="6311000" />
+      <workItem from="1588218448515" duration="2195000" />
+      <workItem from="1588250622458" duration="2340000" />
     </task>
     <task id="LOCAL-00021" summary="Sword P55 Completed">
       <created>1569305175872</created>
@@ -636,7 +623,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587917107858</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="Leetcode challenge day29 completed">
+      <created>1588183196924</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1588183196924</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -699,7 +693,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Sword 011 Completed" />
     <MESSAGE value="Sword 013 Completed" />
     <MESSAGE value="Sword 019 In Progress" />
     <MESSAGE value="Sword 028 In Progress" />
@@ -724,7 +717,8 @@
     <MESSAGE value="2 challenges updated." />
     <MESSAGE value="Daily Update" />
     <MESSAGE value="Update Sort Algorithms." />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Sort Algorithms." />
+    <MESSAGE value="Leetcode challenge day29 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode challenge day29 completed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1080" y="599" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587961814917">
@@ -751,51 +745,51 @@
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state x="-802" y="834" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587739152444" />
-    <state x="-1080" y="509" key="CommitChangelistDialog2" timestamp="1587917107138">
+    <state x="-1080" y="509" key="CommitChangelistDialog2" timestamp="1588183196075">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
-    <state x="-1080" y="509" key="CommitChangelistDialog2/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587917107138" />
-    <state width="1037" height="617" key="GridCell.Tab.0.bottom" timestamp="1588182431522">
+    <state x="-1080" y="509" key="CommitChangelistDialog2/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588183196075" />
+    <state width="1037" height="617" key="GridCell.Tab.0.bottom" timestamp="1588183236187">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1587404243334">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587404243334" />
-    <state width="1037" height="617" key="GridCell.Tab.0.bottom/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588182431522" />
+    <state width="1037" height="617" key="GridCell.Tab.0.bottom/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588183236187" />
     <state width="1237" height="207" key="GridCell.Tab.0.bottom/0.0.1280.689/-1080.0.1080.1890@0.0.1280.689" timestamp="1587893049084" />
     <state width="1237" height="183" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1587890899021" />
     <state width="1398" height="201" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583836112469" />
-    <state width="1037" height="617" key="GridCell.Tab.0.center" timestamp="1588182431522">
+    <state width="1037" height="617" key="GridCell.Tab.0.center" timestamp="1588183236187">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1587404243334">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.center.inPresentationMode/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587404243334" />
-    <state width="1037" height="617" key="GridCell.Tab.0.center/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588182431522" />
+    <state width="1037" height="617" key="GridCell.Tab.0.center/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588183236187" />
     <state width="1237" height="207" key="GridCell.Tab.0.center/0.0.1280.689/-1080.0.1080.1890@0.0.1280.689" timestamp="1587893049084" />
     <state width="1237" height="183" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1587890899021" />
     <state width="1398" height="201" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583836112467" />
-    <state width="1037" height="617" key="GridCell.Tab.0.left" timestamp="1588182431522">
+    <state width="1037" height="617" key="GridCell.Tab.0.left" timestamp="1588183236187">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1587404243334">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.left.inPresentationMode/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587404243334" />
-    <state width="1037" height="617" key="GridCell.Tab.0.left/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588182431522" />
+    <state width="1037" height="617" key="GridCell.Tab.0.left/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588183236187" />
     <state width="1237" height="207" key="GridCell.Tab.0.left/0.0.1280.689/-1080.0.1080.1890@0.0.1280.689" timestamp="1587893049084" />
     <state width="1237" height="183" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1587890899021" />
     <state width="1398" height="201" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583836112466" />
-    <state width="1037" height="617" key="GridCell.Tab.0.right" timestamp="1588182431522">
+    <state width="1037" height="617" key="GridCell.Tab.0.right" timestamp="1588183236187">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1587404243334">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.right.inPresentationMode/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587404243334" />
-    <state width="1037" height="617" key="GridCell.Tab.0.right/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588182431522" />
+    <state width="1037" height="617" key="GridCell.Tab.0.right/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588183236187" />
     <state width="1237" height="207" key="GridCell.Tab.0.right/0.0.1280.689/-1080.0.1080.1890@0.0.1280.689" timestamp="1587893049084" />
     <state width="1237" height="183" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1587890899021" />
     <state width="1398" height="201" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583836112468" />
@@ -823,10 +817,10 @@
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state x="-1039" y="589" key="SettingsEditor/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587961801071" />
-    <state x="-948" y="677" key="Vcs.Push.Dialog.v2" timestamp="1587917112731">
+    <state x="-948" y="677" key="Vcs.Push.Dialog.v2" timestamp="1588183202085">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
-    <state x="-948" y="677" key="Vcs.Push.Dialog.v2/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587917112731" />
+    <state x="-948" y="677" key="Vcs.Push.Dialog.v2/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588183202085" />
     <state x="272" y="-18" width="722" height="776" maximized="true" key="dock-window-1" timestamp="1587909374126">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
