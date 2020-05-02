@@ -20,13 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66e93141-f8e2-472c-a56f-08f3cd22a603" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Beans/VersionControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/No_278_Frist_Bad_Version/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_151_Reverse_Words_in_a_String/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_43_Multiply_Strings/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_71_Simplify_Path/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/No_771_Jewels_and_Stones/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_674_Longest_Continuous_Increasing_Subsequence/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_695_Max_Area_of_Island/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_93_Restore_IP_Addresses/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_567_Permutation_in_String/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_567_Permutation_in_String/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_71_Simplify_Path/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_71_Simplify_Path/Solution.java" afterDir="false" />
     </list>
     <list id="a7928831-6ef8-4884-9e5a-9f387cff135e" name="Revert &quot;Sword 060 Completed&quot;" comment="Revert &quot;Sword 060 Completed&quot;&#10;&#10;This reverts commit 417b2ab8" />
     <option name="SHOW_DIALOG" value="false" />
@@ -101,26 +100,13 @@
       <recent name="C:\孙博洋\Github\Unimelb\LeetcodeJava\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (4)">
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.No_278_Frist_Bad_Version.Solution" />
+      <option name="MAIN_CLASS_NAME" value="Leetcode_Bytedance.No_93_Restore_IP_Addresses.Solution" />
       <module name="LeetcodeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode.No_278_Frist_Bad_Version.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode_Bytedance.No_567_Permutation_in_String.Solution" />
-      <module name="LeetcodeJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Leetcode_Bytedance.No_567_Permutation_in_String.*" />
+          <option name="PATTERN" value="Leetcode_Bytedance.No_93_Restore_IP_Addresses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +140,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.No_124_Binary_Tree_Maximum_Path_Sum.Solution" />
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode_Bytedance.No_695_Max_Area_of_Island.Solution" />
       <module name="LeetcodeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode.No_124_Binary_Tree_Maximum_Path_Sum.*" />
+          <option name="PATTERN" value="Leetcode_Bytedance.No_695_Max_Area_of_Island.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode_Bytedance.No_71_Simplify_Path.Solution" />
+      <module name="LeetcodeJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leetcode_Bytedance.No_71_Simplify_Path.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Solution (5)" />
+        <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -291,14 +290,8 @@
       <workItem from="1588173033567" duration="6311000" />
       <workItem from="1588218448515" duration="2195000" />
       <workItem from="1588250622458" duration="2794000" />
-      <workItem from="1588317440285" duration="12506000" />
-    </task>
-    <task id="LOCAL-00022" summary="Sword BreOrder Traverse Tree Tools In Progress">
-      <created>1569315276495</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1569315276495</updated>
+      <workItem from="1588317440285" duration="15217000" />
+      <workItem from="1588398661820" duration="14300000" />
     </task>
     <task id="LOCAL-00023" summary="Sword BreOrder Traverse Tree Tools Completed">
       <created>1569331275785</created>
@@ -636,7 +629,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588254604853</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Daily Update">
+      <created>1588366795597</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1588366795597</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -720,11 +720,11 @@
     <MESSAGE value="Move Packages" />
     <MESSAGE value="Magic Number, Very Interesting" />
     <MESSAGE value="2 challenges updated." />
-    <MESSAGE value="Daily Update" />
     <MESSAGE value="Update Sort Algorithms." />
     <MESSAGE value="Leetcode challenge day29 completed" />
     <MESSAGE value="Leetcode challenge day30 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode challenge day30 completed" />
+    <MESSAGE value="Daily Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Daily Update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1080" y="599" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587961814917">
@@ -751,86 +751,90 @@
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state x="-802" y="834" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587739152444" />
-    <state x="-1080" y="509" key="CommitChangelistDialog2" timestamp="1588254604190">
+    <state x="-1080" y="509" key="CommitChangelistDialog2" timestamp="1588366794878">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
-    <state x="-1080" y="509" key="CommitChangelistDialog2/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588254604190" />
-    <state width="1037" height="422" key="GridCell.Tab.0.bottom" timestamp="1588355282404">
+    <state x="-1080" y="509" key="CommitChangelistDialog2/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588366794878" />
+    <state width="1037" height="426" key="GridCell.Tab.0.bottom" timestamp="1588423502000">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1587404243334">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587404243334" />
-    <state width="1037" height="422" key="GridCell.Tab.0.bottom/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588355282404" />
+    <state width="1037" height="426" key="GridCell.Tab.0.bottom/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588423502000" />
     <state width="1237" height="207" key="GridCell.Tab.0.bottom/0.0.1280.689/-1080.0.1080.1890@0.0.1280.689" timestamp="1587893049084" />
     <state width="1237" height="183" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1587890899021" />
     <state width="1398" height="201" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583836112469" />
-    <state width="1037" height="422" key="GridCell.Tab.0.center" timestamp="1588355282404">
+    <state width="1037" height="426" key="GridCell.Tab.0.center" timestamp="1588423501999">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1587404243334">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.center.inPresentationMode/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587404243334" />
-    <state width="1037" height="422" key="GridCell.Tab.0.center/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588355282404" />
+    <state width="1037" height="426" key="GridCell.Tab.0.center/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588423501999" />
     <state width="1237" height="207" key="GridCell.Tab.0.center/0.0.1280.689/-1080.0.1080.1890@0.0.1280.689" timestamp="1587893049084" />
     <state width="1237" height="183" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1587890899021" />
     <state width="1398" height="201" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583836112467" />
-    <state width="1037" height="422" key="GridCell.Tab.0.left" timestamp="1588355282404">
+    <state width="1037" height="426" key="GridCell.Tab.0.left" timestamp="1588423501999">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1587404243334">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.left.inPresentationMode/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587404243334" />
-    <state width="1037" height="422" key="GridCell.Tab.0.left/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588355282404" />
+    <state width="1037" height="426" key="GridCell.Tab.0.left/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588423501999" />
     <state width="1237" height="207" key="GridCell.Tab.0.left/0.0.1280.689/-1080.0.1080.1890@0.0.1280.689" timestamp="1587893049084" />
     <state width="1237" height="183" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1587890899021" />
     <state width="1398" height="201" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583836112466" />
-    <state width="1037" height="422" key="GridCell.Tab.0.right" timestamp="1588355282404">
+    <state width="1037" height="426" key="GridCell.Tab.0.right" timestamp="1588423502000">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1587404243334">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.right.inPresentationMode/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587404243334" />
-    <state width="1037" height="422" key="GridCell.Tab.0.right/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588355282404" />
+    <state width="1037" height="426" key="GridCell.Tab.0.right/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588423502000" />
     <state width="1237" height="207" key="GridCell.Tab.0.right/0.0.1280.689/-1080.0.1080.1890@0.0.1280.689" timestamp="1587893049084" />
     <state width="1237" height="183" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1587890899021" />
     <state width="1398" height="201" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583836112468" />
-    <state width="1037" height="684" key="GridCell.Tab.1.bottom" timestamp="1588350928588">
+    <state width="1037" height="684" key="GridCell.Tab.1.bottom" timestamp="1588369495815">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
-    <state width="1037" height="684" key="GridCell.Tab.1.bottom/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588350928588" />
+    <state width="1037" height="684" key="GridCell.Tab.1.bottom/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588369495815" />
     <state width="1237" height="207" key="GridCell.Tab.1.bottom/0.0.1280.689/-1080.0.1080.1890@0.0.1280.689" timestamp="1587893049085" />
-    <state width="1037" height="684" key="GridCell.Tab.1.center" timestamp="1588350928588">
+    <state width="1037" height="684" key="GridCell.Tab.1.center" timestamp="1588369495814">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
-    <state width="1037" height="684" key="GridCell.Tab.1.center/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588350928588" />
+    <state width="1037" height="684" key="GridCell.Tab.1.center/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588369495814" />
     <state width="1237" height="207" key="GridCell.Tab.1.center/0.0.1280.689/-1080.0.1080.1890@0.0.1280.689" timestamp="1587893049084" />
-    <state width="1037" height="684" key="GridCell.Tab.1.left" timestamp="1588350928588">
+    <state width="1037" height="684" key="GridCell.Tab.1.left" timestamp="1588369495814">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
-    <state width="1037" height="684" key="GridCell.Tab.1.left/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588350928588" />
+    <state width="1037" height="684" key="GridCell.Tab.1.left/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588369495814" />
     <state width="1237" height="207" key="GridCell.Tab.1.left/0.0.1280.689/-1080.0.1080.1890@0.0.1280.689" timestamp="1587893049084" />
-    <state width="1037" height="684" key="GridCell.Tab.1.right" timestamp="1588350928588">
+    <state width="1037" height="684" key="GridCell.Tab.1.right" timestamp="1588369495814">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
-    <state width="1037" height="684" key="GridCell.Tab.1.right/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588350928588" />
+    <state width="1037" height="684" key="GridCell.Tab.1.right/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588369495814" />
     <state width="1237" height="207" key="GridCell.Tab.1.right/0.0.1280.689/-1080.0.1080.1890@0.0.1280.689" timestamp="1587893049084" />
     <state x="-1039" y="589" key="SettingsEditor" timestamp="1587961801071">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state x="-1039" y="589" key="SettingsEditor/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587961801071" />
-    <state x="-948" y="677" key="Vcs.Push.Dialog.v2" timestamp="1588366780362">
+    <state x="-948" y="677" key="Vcs.Push.Dialog.v2" timestamp="1588366800457">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
-    <state x="-948" y="677" key="Vcs.Push.Dialog.v2/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588366780362" />
+    <state x="-948" y="677" key="Vcs.Push.Dialog.v2/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588366800457" />
     <state x="272" y="-18" width="722" height="776" maximized="true" key="dock-window-1" timestamp="1587909374126">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="272" y="-18" width="722" height="776" maximized="true" key="dock-window-1/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587909374126" />
+    <state x="-839" y="700" key="refactoring.ChangeSignatureDialog" timestamp="1588369233946">
+      <screen x="-1080" y="0" width="1080" height="1890" />
+    </state>
+    <state x="-839" y="700" key="refactoring.ChangeSignatureDialog/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588369233946" />
     <state x="-877" y="437" width="672" height="678" key="search.everywhere.popup" timestamp="1588346875343">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
@@ -866,6 +870,22 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Leetcode_Bytedance/No_71_Simplify_Path/Solution.java</url>
+          <line>11</line>
+          <properties class="Leetcode_Bytedance.No_71_Simplify_Path.Solution" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Leetcode_Bytedance/No_93_Restore_IP_Addresses/Solution.java</url>
+          <line>6</line>
+          <properties class="Leetcode_Bytedance.No_93_Restore_IP_Addresses.Solution" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
