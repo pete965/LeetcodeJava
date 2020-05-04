@@ -14,9 +14,11 @@ public class Solution {
 //        System.out.println(arrayList.get(1));
         Solution solution = new Solution();
         System.out.println(solution.getPermutation(4,9));
+        System.out.println(solution.getPermutation(3,0));
     }
-    StringBuilder stringBuilder = new StringBuilder();
+    StringBuilder stringBuilder;
     public String getPermutation(int n, int k) {
+        stringBuilder = new StringBuilder();
         LinkedList<Integer> arrayList = new LinkedList<>();
         for (int i=1;i<=n;i++){
             arrayList.add(i);
@@ -26,14 +28,36 @@ public class Solution {
     }
 
     private void buildString(LinkedList<Integer> arrayList, int k) {
+        if (k==0){
+            return;
+        }
+        if (k>cal(arrayList.size())){
+            return;
+        }
         if (arrayList.size()==0){
             return;
         }
         int length = arrayList.size();
-        int index = (k/cal(length-1));
+        if (length==2){
+            if (k==1){
+                stringBuilder.append(arrayList.get(0));
+                arrayList.remove(0);
+            }else if (k==2){
+                stringBuilder.append(arrayList.get(1));
+                arrayList.remove(1);
+            }
+            buildString(arrayList,1);
+            return;
+        }
+        if (length==1){
+            stringBuilder.append(arrayList.get(0));
+            arrayList.remove(0);
+            return;
+        }
+        int index = ((k-1)/cal(length-1));
         stringBuilder.append(arrayList.get(index));
         arrayList.remove(index);
-        buildString(arrayList,k%cal(length-1));
+        buildString(arrayList,k-(index)*cal(length-1));
     }
 
     private int cal(int i) {
