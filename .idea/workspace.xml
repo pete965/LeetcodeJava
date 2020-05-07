@@ -20,24 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66e93141-f8e2-472c-a56f-08f3cd22a603" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_142_Linked_List_Cycle/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_160_Intersection_of_Two_Linked_Lists/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/No_169_Majority_Element/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/No_993_Cousins_in_Binary_Tree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_103_Binary_Tree_Zigzag_Level_Order_Traversal/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_236_Lowest_Common_Ancestor_of_a_Binary_Tree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_33_Search_in_Rotated_Sorted_Array/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Beans/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Beans/Util.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Leetcode/No_876_Middle_of_Two_Linked_List/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Leetcode/No_876_Middle_of_Two_Linked_List/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Leetcode_Bytedance/No_21_Merge_Two_Sorted_Lists/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Leetcode_Bytedance/No_21_Merge_Two_Sorted_Lists/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Leetcode_Bytedance/No_21_Merge_Two_Sorted_Lists/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Leetcode_Bytedance/No_23_Merge_k_Sorted_Lists/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Leetcode_Bytedance/No_23_Merge_k_Sorted_Lists/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Leetcode_Bytedance/No_23_Merge_k_Sorted_Lists/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Leetcode_Bytedance/No_23_Merge_k_Sorted_Lists/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Util/ArrayToList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Util/PrintList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Beans/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beans/Util.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/No_876_Middle_of_Two_Linked_List/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/No_876_Middle_of_Two_Linked_List/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_21_Merge_Two_Sorted_Lists/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_21_Merge_Two_Sorted_Lists/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_21_Merge_Two_Sorted_Lists/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_23_Merge_k_Sorted_Lists/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_23_Merge_k_Sorted_Lists/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Util/ArrayToList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beans/ArrayToList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Util/PrintList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beans/PrintList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Beans/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Beans/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Beans/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beans/TreeNode.java" afterDir="false" />
     </list>
     <list id="a7928831-6ef8-4884-9e5a-9f387cff135e" name="Revert &quot;Sword 060 Completed&quot;" comment="Revert &quot;Sword 060 Completed&quot;&#10;&#10;This reverts commit 417b2ab8" />
     <option name="SHOW_DIALOG" value="false" />
@@ -100,11 +90,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Leetcode_Bytedance.No_33_Search_in_Rotated_Sorted_Array" />
       <recent name="Leetcode_Bytedance.No_2_Add_Two_Numbers" />
       <recent name="Leetcode_Bytedance.No_53_Maximum_Subarray" />
       <recent name="Tools" />
       <recent name="Sword_Offer_056" />
-      <recent name="Sword_Offer_036" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\孙博洋\Github\Unimelb\LeetcodeJava\src\Leetcode_Bytedance" />
@@ -112,7 +102,7 @@
       <recent name="C:\孙博洋\Github\Unimelb\LeetcodeJava\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.Solution (2)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leetcode_Bytedance.No_23_Merge_k_Sorted_Lists.Solution" />
       <module name="LeetcodeJava" />
@@ -127,24 +117,11 @@
       </method>
     </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode_Bytedance.No_547_Friend_Circles.Solution" />
+      <option name="MAIN_CLASS_NAME" value="Leetcode_Bytedance.No_103_Binary_Tree_Zigzag_Level_Order_Traversal.Solution" />
       <module name="LeetcodeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode_Bytedance.No_547_Friend_Circles.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode_Bytedance.No_56_Merge_Intervals.Solution" />
-      <module name="LeetcodeJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Leetcode_Bytedance.No_56_Merge_Intervals.*" />
+          <option name="PATTERN" value="Leetcode_Bytedance.No_103_Binary_Tree_Zigzag_Level_Order_Traversal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,13 +155,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode_Bytedance.No_236_Lowest_Common_Ancestor_of_a_Binary_Tree.Solution" />
+      <module name="LeetcodeJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leetcode_Bytedance.No_236_Lowest_Common_Ancestor_of_a_Binary_Tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -311,14 +301,7 @@
       <workItem from="1588697443582" duration="1547000" />
       <workItem from="1588728471372" duration="3365000" />
       <workItem from="1588748963704" duration="2222000" />
-      <workItem from="1588813413256" duration="7192000" />
-    </task>
-    <task id="LOCAL-00028" summary="Sword 057 Completed">
-      <created>1569392751795</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1569392751795</updated>
+      <workItem from="1588813413256" duration="18137000" />
     </task>
     <task id="LOCAL-00029" summary="Sword 058 Completed">
       <created>1569394302277</created>
@@ -656,7 +639,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588813547316</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="Merge K sorted lists and beans update">
+      <created>1588826697041</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1588826697041</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -719,7 +709,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="30,31,32 Completed" />
     <MESSAGE value="37,40,41 Completed" />
     <MESSAGE value="Stream and Lambda Demo" />
     <MESSAGE value="Random Converter" />
@@ -744,17 +733,18 @@
     <MESSAGE value="Daily Update" />
     <MESSAGE value="Daily Update with merge and sliding window problem" />
     <MESSAGE value="Daily Update with some linked list questions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Daily Update with some linked list questions" />
+    <MESSAGE value="Merge K sorted lists and beans update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge K sorted lists and beans update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1080" y="599" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587961814917">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state x="-1080" y="599" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587961814917" />
-    <state x="-735" y="628" key="#com.intellij.ide.util.MemberChooser" timestamp="1588740565730">
+    <state x="-735" y="628" key="#com.intellij.ide.util.MemberChooser" timestamp="1588853593160">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
-    <state x="-735" y="628" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588740565730" />
+    <state x="-735" y="628" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588853593160" />
     <state x="-811" y="734" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587740441082">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
@@ -775,73 +765,73 @@
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state x="-802" y="834" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587739152444" />
-    <state x="-1080" y="509" key="CommitChangelistDialog2" timestamp="1588813546563">
+    <state x="-1080" y="509" key="CommitChangelistDialog2" timestamp="1588826696236">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
-    <state x="-1080" y="509" key="CommitChangelistDialog2/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588813546563" />
-    <state width="614" height="426" key="GridCell.Tab.0.bottom" timestamp="1588826516957">
+    <state x="-1080" y="509" key="CommitChangelistDialog2/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588826696236" />
+    <state width="1037" height="426" key="GridCell.Tab.0.bottom" timestamp="1588857264609">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1587404243334">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587404243334" />
-    <state width="614" height="426" key="GridCell.Tab.0.bottom/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588826516957" />
+    <state width="1037" height="426" key="GridCell.Tab.0.bottom/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588857264609" />
     <state width="1237" height="207" key="GridCell.Tab.0.bottom/0.0.1280.689/-1080.0.1080.1890@0.0.1280.689" timestamp="1587893049084" />
     <state width="1237" height="183" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1587890899021" />
     <state width="1398" height="201" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583836112469" />
-    <state width="614" height="426" key="GridCell.Tab.0.center" timestamp="1588826516956">
+    <state width="1037" height="426" key="GridCell.Tab.0.center" timestamp="1588857264609">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1587404243334">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.center.inPresentationMode/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587404243334" />
-    <state width="614" height="426" key="GridCell.Tab.0.center/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588826516956" />
+    <state width="1037" height="426" key="GridCell.Tab.0.center/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588857264609" />
     <state width="1237" height="207" key="GridCell.Tab.0.center/0.0.1280.689/-1080.0.1080.1890@0.0.1280.689" timestamp="1587893049084" />
     <state width="1237" height="183" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1587890899021" />
     <state width="1398" height="201" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583836112467" />
-    <state width="614" height="426" key="GridCell.Tab.0.left" timestamp="1588826516956">
+    <state width="1037" height="426" key="GridCell.Tab.0.left" timestamp="1588857264609">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1587404243334">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.left.inPresentationMode/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587404243334" />
-    <state width="614" height="426" key="GridCell.Tab.0.left/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588826516956" />
+    <state width="1037" height="426" key="GridCell.Tab.0.left/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588857264609" />
     <state width="1237" height="207" key="GridCell.Tab.0.left/0.0.1280.689/-1080.0.1080.1890@0.0.1280.689" timestamp="1587893049084" />
     <state width="1237" height="183" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1587890899021" />
     <state width="1398" height="201" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583836112466" />
-    <state width="614" height="426" key="GridCell.Tab.0.right" timestamp="1588826516957">
+    <state width="1037" height="426" key="GridCell.Tab.0.right" timestamp="1588857264609">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1587404243334">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state width="1037" height="400" key="GridCell.Tab.0.right.inPresentationMode/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1587404243334" />
-    <state width="614" height="426" key="GridCell.Tab.0.right/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588826516957" />
+    <state width="1037" height="426" key="GridCell.Tab.0.right/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588857264609" />
     <state width="1237" height="207" key="GridCell.Tab.0.right/0.0.1280.689/-1080.0.1080.1890@0.0.1280.689" timestamp="1587893049084" />
     <state width="1237" height="183" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1587890899021" />
     <state width="1398" height="201" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583836112468" />
-    <state width="506" height="684" key="GridCell.Tab.1.bottom" timestamp="1588697298038">
+    <state width="1037" height="684" key="GridCell.Tab.1.bottom" timestamp="1588855457051">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
-    <state width="506" height="684" key="GridCell.Tab.1.bottom/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588697298038" />
+    <state width="1037" height="684" key="GridCell.Tab.1.bottom/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588855457051" />
     <state width="1237" height="207" key="GridCell.Tab.1.bottom/0.0.1280.689/-1080.0.1080.1890@0.0.1280.689" timestamp="1587893049085" />
-    <state width="506" height="684" key="GridCell.Tab.1.center" timestamp="1588697298038">
+    <state width="1037" height="684" key="GridCell.Tab.1.center" timestamp="1588855457051">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
-    <state width="506" height="684" key="GridCell.Tab.1.center/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588697298038" />
+    <state width="1037" height="684" key="GridCell.Tab.1.center/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588855457051" />
     <state width="1237" height="207" key="GridCell.Tab.1.center/0.0.1280.689/-1080.0.1080.1890@0.0.1280.689" timestamp="1587893049084" />
-    <state width="506" height="684" key="GridCell.Tab.1.left" timestamp="1588697298038">
+    <state width="1037" height="684" key="GridCell.Tab.1.left" timestamp="1588855457051">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
-    <state width="506" height="684" key="GridCell.Tab.1.left/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588697298038" />
+    <state width="1037" height="684" key="GridCell.Tab.1.left/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588855457051" />
     <state width="1237" height="207" key="GridCell.Tab.1.left/0.0.1280.689/-1080.0.1080.1890@0.0.1280.689" timestamp="1587893049084" />
-    <state width="506" height="684" key="GridCell.Tab.1.right" timestamp="1588697298038">
+    <state width="1037" height="684" key="GridCell.Tab.1.right" timestamp="1588855457051">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
-    <state width="506" height="684" key="GridCell.Tab.1.right/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588697298038" />
+    <state width="1037" height="684" key="GridCell.Tab.1.right/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588855457051" />
     <state width="1237" height="207" key="GridCell.Tab.1.right/0.0.1280.689/-1080.0.1080.1890@0.0.1280.689" timestamp="1587893049084" />
     <state x="-1039" y="589" key="SettingsEditor" timestamp="1587961801071">
       <screen x="-1080" y="0" width="1080" height="1890" />
@@ -863,10 +853,10 @@
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
     <state x="-839" y="700" key="refactoring.ChangeSignatureDialog/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588369233946" />
-    <state x="-877" y="437" width="672" height="678" key="search.everywhere.popup" timestamp="1588346875343">
+    <state x="-877" y="437" width="672" height="678" key="search.everywhere.popup" timestamp="1588853847837">
       <screen x="-1080" y="0" width="1080" height="1890" />
     </state>
-    <state x="-877" y="437" width="672" height="678" key="search.everywhere.popup/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588346875343" />
+    <state x="-877" y="437" width="672" height="678" key="search.everywhere.popup/0.0.1280.689/-1080.0.1080.1890@-1080.0.1080.1890" timestamp="1588853847837" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -895,6 +885,16 @@
           <url>file://$PROJECT_DIR$/src/Leetcode_Bytedance/No_56_Merge_Intervals/Solution.java</url>
           <line>24</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode_Bytedance/No_236_Lowest_Common_Ancestor_of_a_Binary_Tree/Solution.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode_Bytedance/No_236_Lowest_Common_Ancestor_of_a_Binary_Tree/Solution.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Leetcode_Bytedance/No_43_Multiply_Strings/Solution.java</url>
