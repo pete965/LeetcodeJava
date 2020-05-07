@@ -1,7 +1,8 @@
 package Leetcode_Bytedance.No_21_Merge_Two_Sorted_Lists;
 
-import Util.ArrayToList;
-import Util.PrintList;
+import Beans.ArrayToList;
+import Beans.ListNode;
+import Beans.PrintList;
 
 public class Solution {
     public static void main(String[] args) {

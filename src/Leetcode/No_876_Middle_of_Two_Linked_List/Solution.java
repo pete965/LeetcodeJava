@@ -1,8 +1,8 @@
 package Leetcode.No_876_Middle_of_Two_Linked_List;
 
-import Leetcode_Bytedance.No_21_Merge_Two_Sorted_Lists.ListNode;
-import Util.ArrayToList;
-import Util.PrintList;
+import Beans.ArrayToList;
+import Beans.ListNode;
+import Beans.PrintList;
 
 public class Solution {
     public static void main(String[] args) {

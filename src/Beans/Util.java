@@ -29,6 +29,18 @@ public class Util {
         current.next=null;
         return head;
     }
+    public static ListNode arrayToCicleList(int[] array,int index){
+        ListNode cycle = new ListNode(array[index]);
+        ListNode head=new ListNode(array[0]);
+        ListNode current=head;
+        for (int i=1;i<array.length&&i!=index;i++){
+            ListNode node=new ListNode(array[i]);
+            current.next=node;
+            current=current.next;
+        }
+        current.next=cycle;
+        return head;
+    }
     public static String treeToPreString(TreeNode root){
         return null;
     }

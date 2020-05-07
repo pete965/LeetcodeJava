@@ -1,6 +1,5 @@
-package Util;
+package Beans;
 
-import Leetcode_Bytedance.No_21_Merge_Two_Sorted_Lists.ListNode;
 
 public class PrintList {
     public static void printList(ListNode listNode){

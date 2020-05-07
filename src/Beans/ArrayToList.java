@@ -1,6 +1,4 @@
-package Util;
-
-import Leetcode_Bytedance.No_21_Merge_Two_Sorted_Lists.ListNode;
+package Beans;
 
 public class ArrayToList {
     public static void main(String[] args){
