@@ -20,14 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66e93141-f8e2-472c-a56f-08f3cd22a603" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/No_169_Majority_Element/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/No_993_Cousins_in_Binary_Tree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_103_Binary_Tree_Zigzag_Level_Order_Traversal/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_236_Lowest_Common_Ancestor_of_a_Binary_Tree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_33_Search_in_Rotated_Sorted_Array/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_120_Triangle/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_354_Russian_Doll_Envelopes/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetcodeJava/Beans/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetcodeJava/Beans/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Beans/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beans/TreeNode.java" afterDir="false" />
     </list>
     <list id="a7928831-6ef8-4884-9e5a-9f387cff135e" name="Revert &quot;Sword 060 Completed&quot;" comment="Revert &quot;Sword 060 Completed&quot;&#10;&#10;This reverts commit 417b2ab8" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +80,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last.edited.regexp" value="aasdfsaaasff" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Leetcode_Bytedance" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RecentsManager">
@@ -302,6 +297,8 @@
       <workItem from="1588728471372" duration="3365000" />
       <workItem from="1588748963704" duration="2222000" />
       <workItem from="1588813413256" duration="18137000" />
+      <workItem from="1591009525173" duration="3736000" />
+      <workItem from="1591060475347" duration="106000" />
     </task>
     <task id="LOCAL-00029" summary="Sword 058 Completed">
       <created>1569394302277</created>
