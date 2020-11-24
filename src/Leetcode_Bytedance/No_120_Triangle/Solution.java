@@ -1,5 +1,6 @@
 package Leetcode_Bytedance.No_120_Triangle;
 
+<<<<<<< Updated upstream
 import java.util.List;
 
 public class Solution {
@@ -33,4 +34,7 @@ public class Solution {
         }
         return min;
     }
+=======
+public class Solution {
+>>>>>>> Stashed changes
 }
