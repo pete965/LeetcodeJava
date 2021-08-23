@@ -1,87 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66e93141-f8e2-472c-a56f-08f3cd22a603" name="Default Changelist" comment="">
-<<<<<<< Updated upstream
-      <change afterPath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_120_Triangle/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_354_Russian_Doll_Envelopes/Solution.java" afterDir="false" />
+    <list default="true" id="eacea44a-d072-450a-a809-0466ef5728d6" name="Changes" comment="update 1 and 2">
+      <change afterPath="$PROJECT_DIR$/src/HuaweiMachineExamPrepare/MingRandomNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-=======
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/No_367_Valid_Perfect_Square/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_120_Triangle/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_121_Best_Time_to_Buy_and_Sell_Stock/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_122_Best_Time_to_Buy_and_Sell_Stock_Part_Two/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode_Bytedance/No_221_Maximal_Square/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/No_678_Valid_Parenthesis_String/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/No_678_Valid_Parenthesis_String/Solution.java" afterDir="false" />
->>>>>>> Stashed changes
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/No_124_Binary_Tree_Maximum_Path_Sum/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/No_124_Binary_Tree_Maximum_Path_Sum/Solution.java" afterDir="false" />
     </list>
-    <list id="a7928831-6ef8-4884-9e5a-9f387cff135e" name="Revert &quot;Sword 060 Completed&quot;" comment="Revert &quot;Sword 060 Completed&quot;&#10;&#10;This reverts commit 417b2ab8" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="FxmlFile" />
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="0c5b57bc495a00e16f6438e4af67afb4007365be" />
-      </map>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1066" />
-  </component>
-  <component name="ProjectId" id="1Qge0KQiZGARLcKtThIY6Km79Ca" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -91,87 +32,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last.edited.regexp" value="aasdfsaaasff" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="profiler.jvm" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Leetcode_Bytedance.No_33_Search_in_Rotated_Sorted_Array" />
-      <recent name="Leetcode_Bytedance.No_2_Add_Two_Numbers" />
-      <recent name="Leetcode_Bytedance.No_53_Maximum_Subarray" />
-      <recent name="Tools" />
-      <recent name="Sword_Offer_056" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\孙博洋\Github\Unimelb\LeetcodeJava\src\Leetcode_Bytedance" />
-      <recent name="C:\孙博洋\Github\Unimelb\LeetcodeJava\src\Coding_Interview" />
-      <recent name="C:\孙博洋\Github\Unimelb\LeetcodeJava\src" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.Solution (3)">
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode_Bytedance.No_23_Merge_k_Sorted_Lists.Solution" />
+  <component name="RunManager">
+    <configuration name="MingRandomNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HuaweiMachineExamPrepare.MingRandomNumber" />
       <module name="LeetcodeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode_Bytedance.No_23_Merge_k_Sorted_Lists.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode_Bytedance.No_103_Binary_Tree_Zigzag_Level_Order_Traversal.Solution" />
-      <module name="LeetcodeJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Leetcode_Bytedance.No_103_Binary_Tree_Zigzag_Level_Order_Traversal.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode_Bytedance.No_221_Maximal_Square.Solution" />
-      <module name="LeetcodeJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Leetcode_Bytedance.No_221_Maximal_Square.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode_Bytedance.No_142_Linked_List_Cycle.Solution" />
-      <module name="LeetcodeJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Leetcode_Bytedance.No_142_Linked_List_Cycle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode_Bytedance.No_236_Lowest_Common_Ancestor_of_a_Binary_Tree.Solution" />
-      <module name="LeetcodeJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Leetcode_Bytedance.No_236_Lowest_Common_Ancestor_of_a_Binary_Tree.*" />
+          <option name="PATTERN" value="HuaweiMachineExamPrepare.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,541 +51,36 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution (5)" />
+        <item itemvalue="Application.MingRandomNumber" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="66e93141-f8e2-472c-a56f-08f3cd22a603" name="Default Changelist" comment="" />
-      <created>1568194394389</created>
+      <changelist id="eacea44a-d072-450a-a809-0466ef5728d6" name="Changes" comment="" />
+      <created>1629724963946</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568194394389</updated>
-      <workItem from="1568194400662" duration="15000" />
-      <workItem from="1568196451290" duration="175000" />
-      <workItem from="1568196658633" duration="109000" />
-      <workItem from="1568622856784" duration="3295000" />
-      <workItem from="1568628406498" duration="5702000" />
-      <workItem from="1568706240765" duration="4772000" />
-      <workItem from="1568730562165" duration="1677000" />
-      <workItem from="1568766857721" duration="7861000" />
-      <workItem from="1568792575905" duration="10000" />
-      <workItem from="1568792946358" duration="3071000" />
-      <workItem from="1568817607946" duration="1841000" />
-      <workItem from="1568852633768" duration="4352000" />
-      <workItem from="1568858129071" duration="579000" />
-      <workItem from="1568872676972" duration="2741000" />
-      <workItem from="1568949109911" duration="4198000" />
-      <workItem from="1569202379060" duration="13450000" />
-      <workItem from="1569255012188" duration="783000" />
-      <workItem from="1569288558191" duration="5464000" />
-      <workItem from="1569305491925" duration="8982000" />
-      <workItem from="1569377746807" duration="12784000" />
-      <workItem from="1569478904732" duration="13111000" />
-      <workItem from="1569512175040" duration="595000" />
-      <workItem from="1569564014642" duration="7290000" />
-      <workItem from="1569638496091" duration="5731000" />
-      <workItem from="1569682274994" duration="352000" />
-      <workItem from="1569716644044" duration="599000" />
-      <workItem from="1569736550982" duration="12201000" />
-      <workItem from="1569823974104" duration="3228000" />
-      <workItem from="1569912826140" duration="560000" />
-      <workItem from="1569923410381" duration="42000" />
-      <workItem from="1569943281725" duration="2850000" />
-      <workItem from="1569994337594" duration="60000" />
-      <workItem from="1570012309682" duration="713000" />
-      <workItem from="1570063261205" duration="601000" />
-      <workItem from="1570092133983" duration="749000" />
-      <workItem from="1570194280961" duration="4516000" />
-      <workItem from="1570242570883" duration="1165000" />
-      <workItem from="1570286432834" duration="2698000" />
-      <workItem from="1570329041360" duration="1198000" />
-      <workItem from="1570506285343" duration="1896000" />
-      <workItem from="1570580726868" duration="49000" />
-      <workItem from="1570793007125" duration="600000" />
-      <workItem from="1572441991929" duration="5609000" />
-      <workItem from="1572701424751" duration="601000" />
-      <workItem from="1572741830155" duration="6668000" />
-      <workItem from="1573348538235" duration="4100000" />
-      <workItem from="1573479531022" duration="791000" />
-      <workItem from="1573882142605" duration="936000" />
-      <workItem from="1574225309705" duration="815000" />
-      <workItem from="1574763442250" duration="1339000" />
-      <workItem from="1574854828880" duration="6416000" />
-      <workItem from="1574867334769" duration="3170000" />
-      <workItem from="1574908380899" duration="1476000" />
-      <workItem from="1574948860940" duration="636000" />
-      <workItem from="1583579530549" duration="4869000" />
-      <workItem from="1583720771581" duration="5772000" />
-      <workItem from="1583835188924" duration="1049000" />
-      <workItem from="1585122278873" duration="6124000" />
-      <workItem from="1585200928047" duration="6031000" />
-      <workItem from="1585375813404" duration="4908000" />
-      <workItem from="1585447676177" duration="23697000" />
-      <workItem from="1585541544061" duration="476000" />
-      <workItem from="1585565202339" duration="1213000" />
-      <workItem from="1585576376954" duration="2858000" />
-      <workItem from="1585628769426" duration="9966000" />
-      <workItem from="1585715653376" duration="10036000" />
-      <workItem from="1585799299180" duration="599000" />
-      <workItem from="1585883662867" duration="18414000" />
-      <workItem from="1585970796229" duration="9360000" />
-      <workItem from="1586059323802" duration="3923000" />
-      <workItem from="1586079052588" duration="2193000" />
-      <workItem from="1586175604603" duration="598000" />
-      <workItem from="1586228102577" duration="919000" />
-      <workItem from="1586342447795" duration="9097000" />
-      <workItem from="1586351696849" duration="636000" />
-      <workItem from="1586502208687" duration="243000" />
-      <workItem from="1586513315838" duration="375000" />
-      <workItem from="1586530958633" duration="2090000" />
-      <workItem from="1586674828718" duration="1416000" />
-      <workItem from="1586686749869" duration="942000" />
-      <workItem from="1586757759845" duration="2720000" />
-      <workItem from="1586765952016" duration="1295000" />
-      <workItem from="1586930905749" duration="1265000" />
-      <workItem from="1587150935602" duration="2338000" />
-      <workItem from="1587193377168" duration="9608000" />
-      <workItem from="1587217226209" duration="674000" />
-      <workItem from="1587269156351" duration="4695000" />
-      <workItem from="1587371515686" duration="5023000" />
-      <workItem from="1587556299218" duration="600000" />
-      <workItem from="1587631175854" duration="14036000" />
-      <workItem from="1587715096259" duration="15734000" />
-      <workItem from="1587745669940" duration="2421000" />
-      <workItem from="1587788554333" duration="11445000" />
-      <workItem from="1587809863467" duration="11523000" />
-      <workItem from="1587874105234" duration="10392000" />
-      <workItem from="1587894185410" duration="4726000" />
-      <workItem from="1587907499670" duration="3029000" />
-      <workItem from="1587914143914" duration="3369000" />
-      <workItem from="1587954555657" duration="5609000" />
-      <workItem from="1587970018392" duration="893000" />
-      <workItem from="1588142390275" duration="8131000" />
-      <workItem from="1588173033567" duration="6311000" />
-      <workItem from="1588218448515" duration="2195000" />
-      <workItem from="1588250622458" duration="2794000" />
-      <workItem from="1588317440285" duration="15217000" />
-      <workItem from="1588398661820" duration="14340000" />
-      <workItem from="1588473122726" duration="5567000" />
-      <workItem from="1588520967797" duration="3470000" />
-      <workItem from="1588583944189" duration="5095000" />
-      <workItem from="1588647164540" duration="11729000" />
-      <workItem from="1588697443582" duration="1547000" />
-      <workItem from="1588728471372" duration="3365000" />
-      <workItem from="1588748963704" duration="2222000" />
-<<<<<<< Updated upstream
-      <workItem from="1588813413256" duration="18137000" />
-      <workItem from="1591009525173" duration="3736000" />
-      <workItem from="1591060475347" duration="106000" />
+      <updated>1629724963946</updated>
+      <workItem from="1629724967680" duration="2604000" />
     </task>
-    <task id="LOCAL-00029" summary="Sword 058 Completed">
-      <created>1569394302277</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
+    <task id="LOCAL-00001" summary="update 1 and 2">
+      <created>1629725884532</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1569394302277</updated>
-=======
-      <workItem from="1588813413256" duration="18287000" />
-      <workItem from="1588912333536" duration="4087000" />
-      <workItem from="1588936390242" duration="3506000" />
-      <workItem from="1589011863117" duration="4668000" />
-      <workItem from="1589081959484" duration="671000" />
-      <workItem from="1589439690246" duration="280000" />
-      <workItem from="1589856087376" duration="599000" />
-      <workItem from="1590627545451" duration="603000" />
-      <workItem from="1590812303170" duration="3479000" />
-      <workItem from="1591886067939" duration="117000" />
-      <workItem from="1595781783471" duration="1017000" />
-      <workItem from="1600609005022" duration="7000" />
-      <workItem from="1600927357168" duration="1572000" />
->>>>>>> Stashed changes
+      <updated>1629725884532</updated>
     </task>
-    <task id="LOCAL-00030" summary="Sword 059 Completed">
-      <created>1569401092054</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1569401092054</updated>
-    </task>
-    <task id="LOCAL-00031" summary="Sword 060 Completed">
-      <created>1569418341223</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1569418341223</updated>
-    </task>
-    <task id="LOCAL-00032" summary="Sword 060 Completed">
-      <created>1569418541095</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1569418541095</updated>
-    </task>
-    <task id="LOCAL-00033" summary="Sword 060 Completed">
-      <created>1569418739829</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1569418739829</updated>
-    </task>
-    <task id="LOCAL-00034" summary="Sword 061 Completed">
-      <created>1569481759129</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1569481759129</updated>
-    </task>
-    <task id="LOCAL-00035" summary="Sword 020 Completed">
-      <created>1569487765254</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1569487765254</updated>
-    </task>
-    <task id="LOCAL-00036" summary="Sword 064 Completed">
-      <created>1569501733156</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1569501733156</updated>
-    </task>
-    <task id="LOCAL-00037" summary="Sword 029 Completed">
-      <created>1569565729288</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1569565729288</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Sword 001 Completed">
-      <created>1569656519202</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1569656519202</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Sword 066 Completed">
-      <created>1569764658245</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1569764658245</updated>
-    </task>
-    <task id="LOCAL-00040" summary="Sword 066 Completed">
-      <created>1569913147302</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1569913147302</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Sword 009 Completed">
-      <created>1569946030620</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1569946030620</updated>
-    </task>
-    <task id="LOCAL-00042" summary="Sword 012 Completed">
-      <created>1570092796462</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1570092796462</updated>
-    </task>
-    <task id="LOCAL-00043" summary="Sword 011 Completed">
-      <created>1570194708634</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1570194708634</updated>
-    </task>
-    <task id="LOCAL-00044" summary="Sword 013 Completed">
-      <created>1570199757569</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1570199757569</updated>
-    </task>
-    <task id="LOCAL-00045" summary="Sword 019 In Progress">
-      <created>1570200595489</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1570200595489</updated>
-    </task>
-    <task id="LOCAL-00046" summary="Sword 028 In Progress">
-      <created>1570290599709</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1570290599709</updated>
-    </task>
-    <task id="LOCAL-00047" summary="30,31,32 Completed">
-      <created>1585464768680</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1585464768680</updated>
-    </task>
-    <task id="LOCAL-00048" summary="37,40,41 Completed">
-      <created>1585500899445</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1585500899445</updated>
-    </task>
-    <task id="LOCAL-00049" summary="Stream and Lambda Demo">
-      <created>1585565720424</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1585565720424</updated>
-    </task>
-    <task id="LOCAL-00050" summary="Random Converter">
-      <created>1585578002349</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1585578002350</updated>
-    </task>
-    <task id="LOCAL-00051" summary="leetcode 002 bytedance completed">
-      <created>1585933211626</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1585933211626</updated>
-    </task>
-    <task id="LOCAL-00052" summary="leetcode 03 and 14 completed">
-      <created>1586021422770</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1586021422771</updated>
-    </task>
-    <task id="LOCAL-00053" summary="leetcode 15 and 21 completed and some Util Tools to build and print a linkedList">
-      <created>1586063929579</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1586063929579</updated>
-    </task>
-    <task id="LOCAL-00054" summary="Real Interview">
-      <created>1586350901875</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1586350901875</updated>
-    </task>
-    <task id="LOCAL-00055" summary="Real Interview Update">
-      <created>1586352141356</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1586352141357</updated>
-    </task>
-    <task id="LOCAL-00056" summary="Challenge No 5, 7">
-      <created>1586687627621</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1586687627622</updated>
-    </task>
-    <task id="LOCAL-00057" summary="Challenge No 5, 7">
-      <created>1586762969529</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1586762969529</updated>
-    </task>
-    <task id="LOCAL-00058" summary="Daily Update with Utils and Tools update">
-      <created>1587152400585</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1587152400586</updated>
-    </task>
-    <task id="LOCAL-00059" summary="Meituan Five Questions">
-      <created>1587647679355</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1587647679355</updated>
-    </task>
-    <task id="LOCAL-00060" summary="Update NNumberSumK Dynamic Programming Solution">
-      <created>1587743004478</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1587743004478</updated>
-    </task>
-    <task id="LOCAL-00061" summary="Update NNumberSumK Dynamic Programming Solution Update#1">
-      <created>1587743119227</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1587743119227</updated>
-    </task>
-    <task id="LOCAL-00062" summary="Add comments, Update NNumberSumK Dynamic Programming Solution">
-      <created>1587743737490</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1587743737490</updated>
-    </task>
-    <task id="LOCAL-00063" summary="Update Alibaba Question Two and Two Solved Leetcode Questions">
-      <created>1587790332373</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1587790332374</updated>
-    </task>
-    <task id="LOCAL-00064" summary="Move Packages">
-      <created>1587790566579</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1587790566579</updated>
-    </task>
-    <task id="LOCAL-00065" summary="Magic Number, Very Interesting">
-      <created>1587799398703</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1587799398703</updated>
-    </task>
-    <task id="LOCAL-00066" summary="2 challenges updated.">
-      <created>1587814374756</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1587814374756</updated>
-    </task>
-    <task id="LOCAL-00067" summary="Daily Update">
-      <created>1587914278523</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1587914278523</updated>
-    </task>
-    <task id="LOCAL-00068" summary="Update Sort Algorithms.">
-      <created>1587917107858</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1587917107858</updated>
-    </task>
-    <task id="LOCAL-00069" summary="Leetcode challenge day29 completed">
-      <created>1588183196924</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1588183196924</updated>
-    </task>
-    <task id="LOCAL-00070" summary="Leetcode challenge day30 completed">
-      <created>1588254604853</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1588254604853</updated>
-    </task>
-    <task id="LOCAL-00071" summary="Daily Update">
-      <created>1588366795597</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1588366795597</updated>
-    </task>
-    <task id="LOCAL-00072" summary="Daily Update">
-      <created>1588437318680</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1588437318680</updated>
-    </task>
-    <task id="LOCAL-00073" summary="Daily Update">
-      <created>1588523716117</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1588523716117</updated>
-    </task>
-    <task id="LOCAL-00074" summary="Daily Update">
-      <created>1588616550954</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1588616550954</updated>
-    </task>
-    <task id="LOCAL-00075" summary="Daily Update with merge and sliding window problem">
-      <created>1588678600937</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1588678600938</updated>
-    </task>
-    <task id="LOCAL-00076" summary="Daily Update with some linked list questions">
-      <created>1588813547316</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1588813547316</updated>
-    </task>
-    <task id="LOCAL-00077" summary="Merge K sorted lists and beans update">
-      <created>1588826697041</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1588826697041</updated>
-    </task>
-    <task id="LOCAL-00078" summary="List and Tree Completed">
-      <created>1588869125206</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1588869125206</updated>
-    </task>
-    <option name="localTasksCounter" value="79" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
-        <entry key="1">
-          <value>
-            <State>
-              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="HEAD" />
-                      </list>
-                    </value>
-                  </entry>
-                  <entry key="structure">
-                    <value>
-                      <list>
-                        <option value="dir:C:/孙博洋/Github/Unimelb/LeetcodeJava/src/Coding_Interview" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
         <entry key="MAIN">
           <value>
             <State />
@@ -723,128 +88,24 @@
         </entry>
       </map>
     </option>
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="Branch">
-          <value>
-            <list />
-          </value>
-        </entry>
-        <entry key="User">
-          <value>
-            <list />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Stream and Lambda Demo" />
-    <MESSAGE value="Random Converter" />
-    <MESSAGE value="leetcode 002 bytedance completed" />
-    <MESSAGE value="leetcode 03 and 14 completed" />
-    <MESSAGE value="leetcode 15 and 21 completed and some Util Tools to build and print a linkedList" />
-    <MESSAGE value="Real Interview" />
-    <MESSAGE value="Real Interview Update" />
-    <MESSAGE value="Challenge No 5, 7" />
-    <MESSAGE value="Daily Update with Utils and Tools update" />
-    <MESSAGE value="Meituan Five Questions" />
-    <MESSAGE value="Update NNumberSumK Dynamic Programming Solution" />
-    <MESSAGE value="Update NNumberSumK Dynamic Programming Solution Update#1" />
-    <MESSAGE value="Add comments, Update NNumberSumK Dynamic Programming Solution" />
-    <MESSAGE value="Update Alibaba Question Two and Two Solved Leetcode Questions" />
-    <MESSAGE value="Move Packages" />
-    <MESSAGE value="Magic Number, Very Interesting" />
-    <MESSAGE value="2 challenges updated." />
-    <MESSAGE value="Update Sort Algorithms." />
-    <MESSAGE value="Leetcode challenge day29 completed" />
-    <MESSAGE value="Leetcode challenge day30 completed" />
-    <MESSAGE value="Daily Update" />
-    <MESSAGE value="Daily Update with merge and sliding window problem" />
-    <MESSAGE value="Daily Update with some linked list questions" />
-    <MESSAGE value="Merge K sorted lists and beans update" />
-    <MESSAGE value="List and Tree Completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="List and Tree Completed" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="661" y="126" width="598" height="798" key="find.popup" timestamp="1600927422766">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="661" y="126" width="598" height="798" key="find.popup/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1600927422766" />
+    <MESSAGE value="update 1 and 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 1 and 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Coding_Interview/Sword_Offer_067/Solution.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/RealInterviewQuestions/Others/NNumberSumKDynamicProgramming.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Deep_Thought_Into_Java/HashmapTest.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode_Bytedance/No_43_Multiply_Strings/Solution.java</url>
+          <url>file://$PROJECT_DIR$/src/HuaweiMachineExamPrepare/MingRandomNumber.java</url>
           <line>10</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode_Bytedance/No_56_Merge_Intervals/Solution.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode_Bytedance/No_236_Lowest_Common_Ancestor_of_a_Binary_Tree/Solution.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Leetcode_Bytedance/No_236_Lowest_Common_Ancestor_of_a_Binary_Tree/Solution.java</url>
-          <line>48</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Leetcode_Bytedance/No_43_Multiply_Strings/Solution.java</url>
-          <line>5</line>
-          <properties class="Leetcode_Bytedance.No_43_Multiply_Strings.Solution" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Leetcode_Bytedance/No_71_Simplify_Path/Solution.java</url>
-          <line>11</line>
-          <properties class="Leetcode_Bytedance.No_71_Simplify_Path.Solution" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Leetcode_Bytedance/No_93_Restore_IP_Addresses/Solution.java</url>
-          <line>6</line>
-          <properties class="Leetcode_Bytedance.No_93_Restore_IP_Addresses.Solution" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="10" />
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/LeetcodeJava$Meituan2.ic" NAME="Meituan2 Coverage Results" MODIFIED="1587643519672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>RealInterviewQuestions.*</FILTER>
-    </SUITE>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
