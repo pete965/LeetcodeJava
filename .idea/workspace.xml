@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eacea44a-d072-450a-a809-0466ef5728d6" name="Changes" comment="update 3 and gitignore">
-      <change afterPath="$PROJECT_DIR$/src/HuaweiMachineExamPrepare/HexToDec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HuaweiMachineExamPrepare/StringSplit.java" afterDir="false" />
+    <list default="true" id="eacea44a-d072-450a-a809-0466ef5728d6" name="Changes" comment="update 4 and 5">
+      <change afterPath="$PROJECT_DIR$/src/HuaweiMachineExamPrepare/SplitToPrimeNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629724963946</updated>
-      <workItem from="1629724967680" duration="5426000" />
+      <workItem from="1629724967680" duration="7015000" />
     </task>
     <task id="LOCAL-00001" summary="update 1 and 2">
       <created>1629725884532</created>
@@ -96,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629727632672</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update 4 and 5">
+      <created>1629807846367</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1629807846367</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,7 +122,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update 1 and 2" />
     <MESSAGE value="update 3 and gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="update 3 and gitignore" />
+    <MESSAGE value="update 4 and 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 4 and 5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
