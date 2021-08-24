@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eacea44a-d072-450a-a809-0466ef5728d6" name="Changes" comment="update 1 and 2">
-      <change afterPath="$PROJECT_DIR$/src/HuaweiMachineExamPrepare/MingRandomNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="eacea44a-d072-450a-a809-0466ef5728d6" name="Changes" comment="update 3 and gitignore">
+      <change afterPath="$PROJECT_DIR$/src/HuaweiMachineExamPrepare/HexToDec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HuaweiMachineExamPrepare/StringSplit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/No_124_Binary_Tree_Maximum_Path_Sum/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/No_124_Binary_Tree_Maximum_Path_Sum/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-16.0.1/Contents/Home/lib/src.zip!/java.base/java/util/PriorityQueue.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -33,9 +35,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="profiler.jvm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.StringSplit">
     <configuration name="MingRandomNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HuaweiMachineExamPrepare.MingRandomNumber" />
       <module name="LeetcodeJava" />
@@ -49,8 +52,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringSplit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HuaweiMachineExamPrepare.StringSplit" />
+      <module name="LeetcodeJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HuaweiMachineExamPrepare.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringSplit" />
         <item itemvalue="Application.MingRandomNumber" />
       </list>
     </recent_temporary>
@@ -63,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629724963946</updated>
-      <workItem from="1629724967680" duration="2604000" />
+      <workItem from="1629724967680" duration="5426000" />
     </task>
     <task id="LOCAL-00001" summary="update 1 and 2">
       <created>1629725884532</created>
@@ -72,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629725884532</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update 3 and gitignore">
+      <created>1629727632672</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1629727632672</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,7 +115,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update 1 and 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="update 1 and 2" />
+    <MESSAGE value="update 3 and gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 3 and gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -100,6 +125,11 @@
           <url>file://$PROJECT_DIR$/src/HuaweiMachineExamPrepare/MingRandomNumber.java</url>
           <line>10</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HuaweiMachineExamPrepare/StringSplit.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
