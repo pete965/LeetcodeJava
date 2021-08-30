@@ -1,4 +1,4 @@
-package HuaweiMachineExamPrepare;
+package HuaweiMachineExamPrepare.HJ6;
 
 
 import java.util.PriorityQueue;

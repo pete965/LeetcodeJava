@@ -1,4 +1,4 @@
-package HuaweiMachineExamPrepare;
+package HuaweiMachineExamPrepare.HJ3;
 
 import java.util.HashSet;
 import java.util.PriorityQueue;

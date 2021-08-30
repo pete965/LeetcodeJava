@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eacea44a-d072-450a-a809-0466ef5728d6" name="Changes" comment="update 4 and 5">
-      <change afterPath="$PROJECT_DIR$/src/HuaweiMachineExamPrepare/SplitToPrimeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HuaweiMachineExamPrepare/HJ7/FourRemoveFiveInc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HuaweiMachineExamPrepare/HJ8/MergeTableItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HuaweiMachineExamPrepare/HJ9/GetNonRepeatableInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HuaweiMachineExamPrepare/CountCharacterTimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HuaweiMachineExamPrepare/HJ2/CountCharacterTimes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HuaweiMachineExamPrepare/HexToDec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HuaweiMachineExamPrepare/HJ5/HexToDec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HuaweiMachineExamPrepare/LastWordLengthInAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HuaweiMachineExamPrepare/HJ1/LastWordLengthInAString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HuaweiMachineExamPrepare/MingRandomNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HuaweiMachineExamPrepare/HJ3/MingRandomNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HuaweiMachineExamPrepare/SplitToPrimeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HuaweiMachineExamPrepare/HJ6/SplitToPrimeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HuaweiMachineExamPrepare/StringSplit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HuaweiMachineExamPrepare/HJ4/StringSplit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,9 +29,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-16.0.1/Contents/Home/lib/src.zip!/java.base/java/util/PriorityQueue.java" root0="SKIP_INSPECTION" />
   </component>
+  <component name="ProjectId" id="1xRlQ3K9jxcgnswVAXp1Z9KagML" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -34,16 +47,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager" selected="Application.StringSplit">
     <configuration name="MingRandomNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HuaweiMachineExamPrepare.MingRandomNumber" />
+      <option name="MAIN_CLASS_NAME" value="HuaweiMachineExamPrepare.HJ3.MingRandomNumber" />
       <module name="LeetcodeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HuaweiMachineExamPrepare.*" />
+          <option name="PATTERN" value="HuaweiMachineExamPrepare.HJ8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -52,11 +66,11 @@
       </method>
     </configuration>
     <configuration name="StringSplit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HuaweiMachineExamPrepare.StringSplit" />
+      <option name="MAIN_CLASS_NAME" value="HuaweiMachineExamPrepare.HJ4.StringSplit" />
       <module name="LeetcodeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HuaweiMachineExamPrepare.*" />
+          <option name="PATTERN" value="HuaweiMachineExamPrepare.HJ8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,7 +93,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629724963946</updated>
-      <workItem from="1629724967680" duration="7015000" />
+      <workItem from="1629724967680" duration="7984000" />
+      <workItem from="1630325767979" duration="866000" />
     </task>
     <task id="LOCAL-00001" summary="update 1 and 2">
       <created>1629725884532</created>
@@ -102,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629807846367</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update 4 and 5">
+      <created>1629810032564</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1629810032564</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +140,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update 1 and 2" />
@@ -129,12 +152,12 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/HuaweiMachineExamPrepare/MingRandomNumber.java</url>
+          <url>file://$PROJECT_DIR$/src/HuaweiMachineExamPrepare/HJ3/MingRandomNumber.java</url>
           <line>10</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/HuaweiMachineExamPrepare/StringSplit.java</url>
+          <url>file://$PROJECT_DIR$/src/HuaweiMachineExamPrepare/HJ4/StringSplit.java</url>
           <line>8</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
