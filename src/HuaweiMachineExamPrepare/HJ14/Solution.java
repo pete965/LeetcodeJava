@@ -12,16 +12,7 @@ public class Solution {
         for (int i=0;i<count;i++){
             arrayList.add(scanner.next());
         }
-        Comparator<String> comparator = (o1, o2) -> {
-            int size = Math.min(o1.length(),o2.length());
-            for (int i=0;i<size;i++){
-                if (o1.charAt(i)!=o2.charAt(i)){
-                    return o1.charAt(i) - o2.charAt(i);
-                }
-            }
-            return o1.length()-o2.length();
-        };
-        arrayList.sort(comparator);
+        arrayList.sort(Comparator.naturalOrder());
         for (String s : arrayList) {
             System.out.println(s);
         }
