@@ -1,4 +1,4 @@
-package HuaweiMachineExamPrepare.HJ5;
+package HuaweiMachineExamPrepare.Medium.HJ5;
 
 import java.util.Scanner;
 

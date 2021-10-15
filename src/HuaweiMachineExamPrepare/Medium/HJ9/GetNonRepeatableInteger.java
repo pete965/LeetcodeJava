@@ -1,4 +1,4 @@
-package HuaweiMachineExamPrepare.HJ9;
+package HuaweiMachineExamPrepare.Medium.HJ9;
 
 import java.util.HashSet;
 import java.util.Scanner;

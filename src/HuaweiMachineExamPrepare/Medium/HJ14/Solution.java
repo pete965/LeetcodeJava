@@ -1,4 +1,4 @@
-package HuaweiMachineExamPrepare.HJ14;
+package HuaweiMachineExamPrepare.Medium.HJ14;
 
 import java.util.ArrayList;
 import java.util.Comparator;

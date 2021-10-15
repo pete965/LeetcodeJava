@@ -1,4 +1,4 @@
-package HuaweiMachineExamPrepare.HJ8;
+package HuaweiMachineExamPrepare.Medium.HJ8;
 
 import java.util.HashMap;
 import java.util.PriorityQueue;

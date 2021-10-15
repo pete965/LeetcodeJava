@@ -1,4 +1,4 @@
-package HuaweiMachineExamPrepare.HJ16;
+package HuaweiMachineExamPrepare.Medium.HJ16;
 
 import java.util.ArrayList;
 import java.util.Arrays;
