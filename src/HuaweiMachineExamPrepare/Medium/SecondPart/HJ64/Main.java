@@ -1,10 +1,10 @@
-package HuaweiMachineExamPrepare.Medium.HJ38;
+package HuaweiMachineExamPrepare.Medium.SecondPart.HJ64;
 
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        // 笔算后直接得到公式，此题java测试集有问题，是个坑
+        //同时模拟光标状态和列表状态，并且加入操作逻辑即可
     }
 }
